@@ -1,5 +1,6 @@
 ﻿using Core.Business;
 using Cysharp.Threading.Tasks;
+using Shared.Extension;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -25,9 +26,9 @@ namespace Core
         public async UniTask<TDefinition> GetDefinition<TDefinition>(string id) where TDefinition : class, IGameDefinition
         {
             IList<TDefinition> defs = await LoadDefinitions<TDefinition>();
-            foreach (var i in defs)
-                if (id == i.Id)
-                    return DeepClone(i);
+            foreach (var def in defs)
+                if (id == def.Id)
+                    return def.DeepClone();
 
             throw new DefinitionNotFound(id);
         }
@@ -91,18 +92,6 @@ namespace Core
             }
 
             throw new WaitingAlreadyLoadedDefinitionTimeOut(type.ToString());
-        }
-
-        private static T DeepClone<T>(T obj)
-        {
-            using (var ms = new MemoryStream())
-            {
-                var formatter = new BinaryFormatter();
-                formatter.Serialize(ms, obj);
-                ms.Position = 0;
-
-                return (T)formatter.Deserialize(ms);
-            }
         }
 
         private class DefinitionNotFound : Exception
