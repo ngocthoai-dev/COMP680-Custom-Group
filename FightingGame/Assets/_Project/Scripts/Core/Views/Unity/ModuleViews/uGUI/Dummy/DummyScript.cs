@@ -11,7 +11,7 @@ namespace Core.View
                 uiType: UIType.uGUI
             )
             {
-                Layer = LayerManager.Main
+                Layer = LayerManager.Top
             };
         }
     }

@@ -24,6 +24,11 @@ namespace Shared.Extension
 
     public static class CollectionExtensions
     {
+        public static string Join(this string[] list, string param)
+        {
+            return string.Join(param, list);
+        }
+
         public static int GetHashCodeForElements<T>(this IList<T> self)
         {
             unchecked
