@@ -21,8 +21,8 @@ MonoBehaviour:
     m_Address: Assets/_Project/Bundles/Prefabs/Views
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 00fcd55f5793d1343be432c9a22fb8d3
-    m_Address: Assets/_Project/Bundles/ScriptableObjects/Shared
+  - m_GUID: 7077352abf19e6f4bbc7959e0d470572
+    m_Address: Assets/_Project/Bundles/ScriptableObjects/Character
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 77e0f275d0a9c7d46a2113cc378e3089

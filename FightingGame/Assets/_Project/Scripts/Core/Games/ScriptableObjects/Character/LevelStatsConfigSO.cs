@@ -24,11 +24,11 @@ namespace Core.SO
                 140
             } },
             { StatType.MPRegen, new List<float>{
-                0.8f,
-                1f,
-                1.15f,
-                1.2f,
-                1.25f
+                0.04f,
+                0.06f,
+                0.07f,
+                0.08f,
+                0.1f
             } },
             { StatType.Arm, new List<float>{
                 5,
