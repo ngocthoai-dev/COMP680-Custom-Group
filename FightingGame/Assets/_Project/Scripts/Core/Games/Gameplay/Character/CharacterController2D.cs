@@ -219,6 +219,7 @@ namespace Core.Gameplay
             _lightAtkCombo++;
             _comboTimer = _defaultComboCooldown;
 
+            CharacterState = ECharacterState.ATTACK;
             await _characterRenderer.Attack(_lightAtkCombo % (_maxLightAtkCombo + 1), GetStatsValue(StatType.ASpd));
         }
 
@@ -226,6 +227,7 @@ namespace Core.Gameplay
         {
             if (!heavy) return;
 
+            CharacterState = ECharacterState.ATTACK;
             await _characterRenderer.Attack(4, GetStatsValue(StatType.ASpd));
         }
 
@@ -234,6 +236,7 @@ namespace Core.Gameplay
             if (!skill1) return;
             if (_characterStats.GetStats(StatType.MP).Value < _characterConfigSO.Skill1.MpCost) return;
 
+            CharacterState = ECharacterState.ATTACK;
             _characterStats.GetStats(StatType.MP).BaseValue -= _characterConfigSO.Skill1.MpCost;
             await _characterRenderer.UseSkill(1, GetStatsValue(StatType.ASpd));
         }
@@ -243,6 +246,7 @@ namespace Core.Gameplay
             if (!skill2) return;
             if (_characterStats.GetStats(StatType.MP).Value < _characterConfigSO.Skill2.MpCost) return;
 
+            CharacterState = ECharacterState.ATTACK;
             _characterStats.GetStats(StatType.MP).BaseValue -= _characterConfigSO.Skill2.MpCost;
             await _characterRenderer.UseSkill(2, GetStatsValue(StatType.ASpd));
         }
@@ -259,7 +263,6 @@ namespace Core.Gameplay
             bool isSkill = skill1 | skill2;
             if (!isAttack) _ = _characterRenderer.Attack(0, GetStatsValue(StatType.ASpd));
             if (!isSkill) _ = _characterRenderer.UseSkill(0, GetStatsValue(StatType.ASpd));
-            if (isAttack || isSkill) CharacterState = ECharacterState.ATTACK;
 
             if (skill2) _ = Skill2Attack(skill2);
             else if (skill1) _ = Skill1Attack(skill1);
