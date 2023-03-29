@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -127,7 +127,1330 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Satori_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 989
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d99d4b96d3b54cadeea0eb2abe1f4
+      internalID: -1764521216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 989
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65896053fb321004bbb54d885b8fba07
+      internalID: 1492816619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 989
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e3ad5d05e7f542aecd354f91ed34f
+      internalID: -710432803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 989
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b47ef751ecf284ea185e836c8afad6
+      internalID: 1650416597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 915
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6ec89c6e0a25c488799737341aea7d
+      internalID: 1492502200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 915
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fd9e539ba8e545ba32cc770463508
+      internalID: -58212110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 915
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f748bea2bc63d1b46818917f40c20fa4
+      internalID: -209627454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 915
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a547ef0fc6fdf545a6f9618f6161531
+      internalID: -534468730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 915
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17475aff7b5b86478e83a1e68235f79
+      internalID: -1174373008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 915
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab71d94d0bf3244ea9ef53c6211212c
+      internalID: -558104138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 856
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4254f0c4b9220248a13a333b811b09f
+      internalID: -1483017515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 792
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d18c17295fe7740b8b99c44fcf435b
+      internalID: -700945091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 725
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86408a1f9e36e824c9a4efa21cca9edd
+      internalID: -1609922500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 644
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147b1e02b72dd84e963cb5f47381351
+      internalID: 920524896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 644
+        width: 86
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce65f69548641e46b30e9be23fdc2a6
+      internalID: 408186365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 645
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e1b51c79ff51459d927c1c49b2ac9
+      internalID: -454612296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 645
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ffd251fa011e459d8e59845e4aea0
+      internalID: -785453537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 641
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7474ee919f43ce469daa523fc1c9563
+      internalID: 1459360950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 644
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ae5797a992cd4998defc259815637
+      internalID: 351235659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_19
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 644
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6259c175597dbc409fba4be7126f36c
+      internalID: -1427210794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 641
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6a1a305bdac94da1825fea8705482
+      internalID: -2109161911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 561
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b16ae3e0099194bbab4e6fff005376
+      internalID: 647932767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 562
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebeae6c710837145aa4330f838c924d
+      internalID: -1920680729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 479
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec772246e79f2443b6c211374f994d1
+      internalID: -2092969019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 479
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faed302bcd4afd4a810749449895c43
+      internalID: 1704651457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 478
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fca0dbfe52e1f48b13329a97f3263a
+      internalID: 1730476980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 478
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bcaa703a900c24187f4a78f4a8bd41
+      internalID: 1293355344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 478
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b91e01f6352f904db1aaccb4885220a
+      internalID: -670912240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 478
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff4bc09698d05b4798c7e392e35d02d
+      internalID: -1179631248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 388
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c994ac31cc03c654694ef07db96468ea
+      internalID: -501431259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 387
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b155b6961c9534bba79d36f2e45e24
+      internalID: -1914943654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 387
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9eae52a3fa4d42b832840c0a21ac8
+      internalID: -768495773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 387
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553b195b1d1dda9478cd8e598a2b9a10
+      internalID: 1666185971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 387
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e6c87070b44c4db21b2bb12390830
+      internalID: -771035740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 387
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cafc090ff0564b89a14076341ef33
+      internalID: 114771635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 387
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c4cc52c74d6946bec010c811ac66c
+      internalID: 16137987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_36
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 388
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167d41c296bcbc4f9f39d2dac4de065
+      internalID: -1275712218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 315
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cde1487e8dad54ab4294e7bd033489
+      internalID: 799479121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 314
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108bdb18951d50c4db104d37684908a6
+      internalID: 880749603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 314
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf916c64ea59794d80959939620e860
+      internalID: 1416430791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 314
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803bae165129fb34cb342cb317e2303b
+      internalID: -179971120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 314
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d5e79a10b1c2745986fc64925c6d62
+      internalID: 1548560000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 314
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57645f487440748a0933684c342cf4
+      internalID: 322863698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 314
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5129ba3d03c91ca46a481bced12ef72c
+      internalID: -561911278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_44
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 312
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d323462ac941dbf4cab0f8465e8e027f
+      internalID: -859289108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 312
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782940943507b04e9a8822f2def5baf
+      internalID: 2116524572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_46
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 314
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c75ad9c4b3414faaf80210e3e0fa1
+      internalID: 858205281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8de21347731fb46a297f6abd715241
+      internalID: 1268020683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 223
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2020a79e959243bb3a89488bbeeef
+      internalID: 379594998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 225
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3b4970f1d7824588fe566c322ea49
+      internalID: 1220873332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41228ed7ad8ebbf48afcf45586bd03a0
+      internalID: -614754178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 171
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31cf5f048c28994fa34154647d5cbfe
+      internalID: 1634394601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 169
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f023b22fa7e3b24594f5adab5ec3ba7
+      internalID: -529274090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 168
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03598b3a40f87ab4f9e026cd87346ffa
+      internalID: 45424839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 168
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223553467140684e9eb553b267904bf
+      internalID: -1604968776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 169
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9800a200d06254b81fd927a7445560
+      internalID: 1236687284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_56
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 168
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0035f239073c4c85c7180f99005fe
+      internalID: -1956051063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 88
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e35218c1fc3f479fcb07a40a81bfe
+      internalID: 1079776566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c765b6095480184485cd935baa560ee
+      internalID: -1194512921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267040c529a1b044e96b355dc113c4ea
+      internalID: -620843070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc16013a3af0094d8a276d64223a664
+      internalID: 1722988191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b1342a4449c245a6b821eec7b604c
+      internalID: 52314885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satori_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 4, z: 0, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77911e67cd1d64b4fbff3719b17a8f2a
+      internalID: 407583839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -138,7 +1461,70 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satori_50: -614754178
+      Satori_41: 1548560000
+      Satori_3: 1650416597
+      Satori_55: 1236687284
+      Satori_40: -179971120
+      Satori_46: 858205281
+      Satori_58: -1194512921
+      Satori_31: -768495773
+      Satori_47: 1268020683
+      Satori_51: 1634394601
+      Satori_27: -670912240
+      Satori_52: -529274090
+      Satori_60: 1722988191
+      Satori_23: -2092969019
+      Satori_1: 1492816619
+      Satori_56: -1956051063
+      Satori_57: 1079776566
+      Satori_7: -534468730
+      Satori_10: -1483017515
+      Satori_4: 1492502200
+      Satori_35: 16137987
+      Satori_49: 1220873332
+      Satori_45: 2116524572
+      Satori_24: 1704651457
+      Satori_48: 379594998
+      Satori_39: 1416430791
+      Satori_34: 114771635
+      Satori_28: -1179631248
+      Satori_53: 45424839
+      Satori_32: 1666185971
+      Satori_15: -454612296
+      Satori_29: -501431259
+      Satori_17: 1459360950
+      Satori_20: -2109161911
+      Satori_26: 1293355344
+      Satori_30: -1914943654
+      Satori_13: 920524896
+      Satori_36: -1275712218
+      Satori_62: 407583839
+      Satori_37: 799479121
+      Satori_6: -209627454
+      Satori_44: -859289108
+      Satori_61: 52314885
+      Satori_19: -1427210794
+      Satori_0: -1764521216
+      Satori_25: 1730476980
+      Satori_12: -1609922500
+      Satori_5: -58212110
+      Satori_16: -785453537
+      Satori_33: -771035740
+      Satori_42: 322863698
+      Satori_22: -1920680729
+      Satori_43: -561911278
+      Satori_59: -620843070
+      Satori_9: -558104138
+      Satori_14: 408186365
+      Satori_2: -710432803
+      Satori_21: 647932767
+      Satori_8: -1174373008
+      Satori_54: -1604968776
+      Satori_38: 880749603
+      Satori_11: -700945091
+      Satori_18: 351235659
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
