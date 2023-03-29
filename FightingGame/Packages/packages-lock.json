@@ -163,6 +163,15 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.inputsystem": {
+      "version": "1.4.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
@@ -282,6 +291,13 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "unityggpo.plugin": {
+      "version": "https://github.com/nykwil/UnityGGPO.git?path=/Unity/Packages/UnityGGPO",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8ee946e42efefc0d1bdbf31dee7019731fbd2f21"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

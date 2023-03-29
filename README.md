@@ -11,7 +11,7 @@ The framework or project architecture will be started from the _Project director
     - Scripts:
         - Business: a project that contains almost interface that can be exposed to any projects.
         - Core:
-            - Signal: signal container for observer pattern, which is implemented by Zenject SignalBus.
+            - Signal: signal container for event-driven programming, which is implemented by Zenject SignalBus.
             - Game: every specific game login will be run from here.
             - Services: it holds services running through the game for Core project such as network.
             - Modules: this contains the mediators or the controllers for their own view implementation. 

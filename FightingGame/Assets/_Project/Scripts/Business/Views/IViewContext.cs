@@ -17,7 +17,7 @@ namespace Core.Business
     {
         public string Bundle { get; set; }
         public UIType UIType { get; set; }
-        public BaseViewConfig(string bundle, UIType uiType)
+        public BaseViewConfig(string bundle, UIType uiType = UIType.uGUI)
         {
             Bundle = bundle;
             UIType = uiType;

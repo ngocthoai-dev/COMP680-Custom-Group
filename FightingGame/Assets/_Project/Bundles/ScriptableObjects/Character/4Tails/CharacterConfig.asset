@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4866e17b5928183468c2cb115e890cc7, type: 3}
+  m_Name: CharacterConfig
+  m_EditorClassIdentifier: Framework:Core.SO:CharacterConfigSO
+  Index: 0
+  CharacterName: 4 Tails
+  Prefab: {fileID: 2788916764280250751, guid: 98a44300ad970ec4896035667061d174, type: 3}
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Light1: {fileID: 11400000, guid: 6a1ab1d7b7ea10042b10b9a0f96b52c4, type: 2}
+  Light2: {fileID: 0}
+  Light3: {fileID: 0}
+  Heavy: {fileID: 11400000, guid: abb5099baba3bba4482588fd324e757d, type: 2}
+  Skill1: {fileID: 11400000, guid: 6d07a75af531a9840ae359413bd5e647, type: 2}
+  Skill2: {fileID: 11400000, guid: 7ec59777591b4354d811c28430df3086, type: 2}
+  StatLevels:
+    list:
+    - Key: 0
+      Value: 1
+    - Key: 1
+      Value: 1
+    - Key: 2
+      Value: 1
+    - Key: 3
+      Value: 1
+    - Key: 4
+      Value: 1
+    - Key: 5
+      Value: 1
+    - Key: 6
+      Value: 1
+    - Key: 7
+      Value: 1
+  CharacterStats:
+    Stats:
+      list:
+      - Key: 0
+        Value:
+          BaseValue: 120
+      - Key: 1
+        Value:
+          BaseValue: 80
+      - Key: 2
+        Value:
+          BaseValue: 1
+      - Key: 3
+        Value:
+          BaseValue: 24
+      - Key: 4
+        Value:
+          BaseValue: 3
+      - Key: 5
+        Value:
+          BaseValue: 6
+      - Key: 6
+        Value:
+          BaseValue: 1
+      - Key: 7
+        Value:
+          BaseValue: 14
+  LevelStatsConfigSO: {fileID: 11400000, guid: e3f73f4b8aff6ad4e8503891e6dc3c24, type: 2}
+  CanDoubleJump: 1

@@ -18,6 +18,15 @@ namespace Core.EventSignal
             AudioPath = audioPath;
         }
 
+        public BaseAudioSignal(SoundData soundData,
+            AudioMixerType audioType = AudioMixerType.Music)
+        {
+            AudioType = audioType;
+            if (soundData == null) return;
+            AudioPath = soundData.Path;
+            Volume = soundData.Volume.Value;
+        }
+
         public virtual T SetupPosition<T>(Vec3D position) where T : BaseAudioSignal
         {
             Position = position;
@@ -44,6 +53,12 @@ namespace Core.EventSignal
             : base(audioPath, audioType)
         {
         }
+
+        public PlayOneShotAudioSignal(SoundData soundData,
+            AudioMixerType audioType = AudioMixerType.Music)
+            : base(soundData, audioType)
+        {
+        }
     }
 
     public class GameAudioSignal : BaseAudioSignal
@@ -58,6 +73,15 @@ namespace Core.EventSignal
             : base(audioPath, audioType)
         {
             ActionType = actionType;
+        }
+
+        public GameAudioSignal(SoundData soundData, AudioMixerType audioType = AudioMixerType.Music,
+            AudioActionType actionType = AudioActionType.START)
+            : base(soundData, audioType)
+        {
+            ActionType = actionType;
+            if (soundData == null) return;
+            Pitch = soundData.Pitch.Value;
         }
 
         public GameAudioSignal SetupAudioSetting(float volume = 1f, float pitch = 1f, bool isLoop = false)
