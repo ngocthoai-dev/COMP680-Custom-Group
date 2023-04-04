@@ -30,6 +30,42 @@ MonoBehaviour:
     m_Localized: Quit
     m_Metadata:
       m_Items: []
+  - m_Id: 267167445540864
+    m_Localized: 'Rules '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267870402502656
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268054914129920
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271988063985664
+    m_Localized: Single Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272235192377344
+    m_Localized: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273100892528640
+    m_Localized: Choose a Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273828088373248
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276090361733120
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315811012009984
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

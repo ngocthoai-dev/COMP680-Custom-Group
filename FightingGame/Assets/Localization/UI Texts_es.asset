@@ -30,6 +30,42 @@ MonoBehaviour:
     m_Localized: Abandonar
     m_Metadata:
       m_Items: []
+  - m_Id: 267167445540864
+    m_Localized: Normas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267870402502656
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268054914129920
+    m_Localized: Atras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271988063985664
+    m_Localized: Un Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272235192377344
+    m_Localized: Multijugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273100892528640
+    m_Localized: Elige Un Personaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273828088373248
+    m_Localized: Comenzar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276090361733120
+    m_Localized: Volumen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315811012009984
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
