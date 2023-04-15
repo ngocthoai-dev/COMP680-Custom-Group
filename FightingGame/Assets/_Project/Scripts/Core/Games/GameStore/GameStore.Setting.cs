@@ -16,6 +16,7 @@ namespace Core {
             public string DummyId;
             public string DummyUTKitId;
             public string MainMenuId;
+            public string ModeMenuId;
         }
 
         [Serializable]

@@ -10,7 +10,11 @@
     {
         Dummy,
         DummyUTKit,
-        MainMenu
+        MainMenu,
+        OptionsMenu,
+        CharacterToggleMenu,
+        SettingsMenu,
+        ModeMenu
     }
 
     public enum ViewName

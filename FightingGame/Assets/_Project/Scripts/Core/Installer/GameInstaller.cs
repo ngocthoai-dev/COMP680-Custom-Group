@@ -62,14 +62,34 @@ namespace Core
                 .ByInstaller<Dummy.Installer>();
 
             Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.DummyUTKit).To<IDummyUTKit>()
+                .FromSubContainerResolve()
+                .ByInstaller<DummyUTKit.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
                 .WithId(ModuleName.MainMenu).To<IMainMenu>()
                 .FromSubContainerResolve()
                 .ByInstaller<MainMenu.Installer>();
 
             Container.BindFactory<IBaseModule, BaseModule.Factory>()
-                .WithId(ModuleName.DummyUTKit).To<IDummyUTKit>()
+                .WithId(ModuleName.ModeMenu).To<IModeMenu>()
                 .FromSubContainerResolve()
-                .ByInstaller<DummyUTKit.Installer>();
+                .ByInstaller<ModeMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.CharacterToggleMenu).To<ICharacterToggleMenu>()
+                .FromSubContainerResolve()
+                .ByInstaller<CharacterToggleMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.OptionsMenu).To<IOptionsMenu>()
+                .FromSubContainerResolve()
+                .ByInstaller<OptionsMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.SettingsMenu).To<ISettingsMenu>()
+                .FromSubContainerResolve()
+                .ByInstaller<SettingsMenu.Installer>();
         }
 
         private void InstallServices()
