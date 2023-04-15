@@ -9,7 +9,8 @@
     public enum ModuleName
     {
         Dummy,
-        DummyUTKit
+        DummyUTKit,
+        MainMenu
     }
 
     public enum ViewName

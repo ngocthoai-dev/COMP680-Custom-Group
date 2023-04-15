@@ -62,6 +62,11 @@ namespace Core
                 .ByInstaller<Dummy.Installer>();
 
             Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.MainMenu).To<IMainMenu>()
+                .FromSubContainerResolve()
+                .ByInstaller<MainMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
                 .WithId(ModuleName.DummyUTKit).To<IDummyUTKit>()
                 .FromSubContainerResolve()
                 .ByInstaller<DummyUTKit.Installer>();
