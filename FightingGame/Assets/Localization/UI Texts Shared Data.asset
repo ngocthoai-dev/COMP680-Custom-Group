@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Texts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Texts
+  m_TableCollectionNameGuidString: fa90b13d6242249e0a458bd980607176
+  m_Entries:
+  - m_Id: 17547911168
+    m_Key: Key_Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208791396352
+    m_Key: Key_Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318677966848
+    m_Key: Key_Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267167445540864
+    m_Key: Key_Rules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267870402502656
+    m_Key: Key_Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268054914129920
+    m_Key: Key_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271988063985664
+    m_Key: Key_Single_Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272235192377344
+    m_Key: Key_Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273100892528640
+    m_Key: Key_Choose_A_Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273828088373248
+    m_Key: Key_Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276090361733120
+    m_Key: Key_Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315811012009984
+    m_Key: Key_Language
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4538441020996321317
+  references:
+    version: 2
+    RefIds:
+    - rid: 4538441020996321317
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680487151697
