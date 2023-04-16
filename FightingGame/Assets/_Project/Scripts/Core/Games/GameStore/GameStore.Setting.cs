@@ -15,6 +15,8 @@ namespace Core {
             [Header("Module ID (If unity module type -> no need to fill)")]
             public string DummyId;
             public string DummyUTKitId;
+            public string MainMenuId;
+            public string ModeMenuId;
         }
 
         [Serializable]

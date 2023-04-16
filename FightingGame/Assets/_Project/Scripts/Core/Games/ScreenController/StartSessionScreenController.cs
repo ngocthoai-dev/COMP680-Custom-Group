@@ -41,11 +41,14 @@ namespace Core
 
         public async void Enter()
         {
-            await _gameStore.CreateModule<IDummy, DummyModel>(
-                _gameSetting.DummyId, ViewName.Unity, ModuleName.Dummy);
+            //await _gameStore.CreateModule<IDummy, DummyModel>(
+            //    _gameSetting.DummyId, ViewName.Unity, ModuleName.Dummy);
 
-            await _gameStore.CreateModule<IDummyUTKit, DummyUTKitModel>(
-                _gameSetting.DummyUTKitId, ViewName.Unity, ModuleName.DummyUTKit);
+            //await _gameStore.CreateModule<IDummyUTKit, DummyUTKitModel>(
+            //    _gameSetting.DummyUTKitId, ViewName.Unity, ModuleName.DummyUTKit);
+
+            await _gameStore.CreateModule<IMainMenu, MainMenuModel>(
+                _gameSetting.MainMenuId, ViewName.Unity, ModuleName.MainMenu);
         }
 
         public void Out()

@@ -57,6 +57,7 @@ namespace Zenject
         public void Start()
         {
             // Define this method so we expose the enabled check box
+
         }
 
         public enum BindTypes

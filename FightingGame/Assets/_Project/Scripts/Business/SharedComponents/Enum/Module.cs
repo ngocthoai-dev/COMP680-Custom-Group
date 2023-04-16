@@ -9,7 +9,12 @@
     public enum ModuleName
     {
         Dummy,
-        DummyUTKit
+        DummyUTKit,
+        MainMenu,
+        OptionsMenu,
+        CharacterToggleMenu,
+        SettingsMenu,
+        ModeMenu
     }
 
     public enum ViewName

@@ -21,14 +21,17 @@ MonoBehaviour:
     m_Address: Assets/_Project/Bundles/Prefabs/Views
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7077352abf19e6f4bbc7959e0d470572
     m_Address: Assets/_Project/Bundles/ScriptableObjects/Character
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 77e0f275d0a9c7d46a2113cc378e3089
     m_Address: Assets/_Project/Bundles/Prefabs/FX
     m_ReadOnly: 0
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b2fe45e3d3d191b45bff8cfe962fa82e, type: 2}
   m_SchemaSet:
