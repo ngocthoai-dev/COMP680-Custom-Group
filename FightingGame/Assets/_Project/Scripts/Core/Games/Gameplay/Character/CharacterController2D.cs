@@ -46,7 +46,6 @@ namespace Core.Gameplay
         [SerializeField][DebugOnly] private CharacterRenderer _characterRenderer;
         [SerializeField][DebugOnly] private CharacterAnchor _characterAnchor = new();
 
-        [SerializeField] private int _maxHealth = 100;
         [SerializeField] private int _maxLightAtkCombo = 3;
 
         [Header("Jump Config")]

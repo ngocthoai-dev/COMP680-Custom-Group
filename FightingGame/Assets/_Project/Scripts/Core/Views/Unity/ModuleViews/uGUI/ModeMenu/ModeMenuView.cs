@@ -37,7 +37,7 @@ namespace Core.View
 
             _singlePlayerBtn.onClick.AddListener(async () =>
             {
-                await _gameStore.CreateModule<ICharacterToggleMenu, CharacterToggleMenuModel>("", ViewName.Unity, ModuleName.CharacterToggleMenu);
+                await _gameStore.CreateModule<ICharacterSelection, CharacterSelectionModel>("", ViewName.Unity, ModuleName.CharacterSelection);
                 _gameStore.GState.RemoveModel<ModeMenuModel>();
             });
 

@@ -11,6 +11,8 @@ namespace Core.SO
 
         public string CharacterName = "Name";
         public GameObject Prefab = null;
+        public AnimatorOverrideController Controller = null;
+        public Sprite Thumbnail = null;
         public Color Color = Color.white;
 
         [Header("Attacks")]
@@ -41,9 +43,15 @@ namespace Core.SO
         public LevelStatsConfigSO LevelStatsConfigSO = null;
         public bool CanDoubleJump = true;
 
-        public void ApplyStats()
+        public CharacterConfigSO ApplyStats()
         {
             CharacterStats.ApplyStats(StatLevels, LevelStatsConfigSO.LevelConfigs);
+            return this;
+        }
+
+        public CharacterConfigSO Clone()
+        {
+            return (CharacterConfigSO)MemberwiseClone();
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using Core.Business;
+using Core.Business;
 using Core.EventSignal;
 
 using Cysharp.Threading.Tasks;

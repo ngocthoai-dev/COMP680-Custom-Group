@@ -1,4 +1,4 @@
-﻿using Core.Business;
+using Core.Business;
 using Core.EventSignal;
 using Core.Gameplay;
 using Core.Module;
@@ -90,6 +90,11 @@ namespace Core
                 .WithId(ModuleName.SettingsMenu).To<ISettingsMenu>()
                 .FromSubContainerResolve()
                 .ByInstaller<SettingsMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.CharacterSelection).To<ICharacterSelection>()
+                .FromSubContainerResolve()
+                .ByInstaller<CharacterSelection.Installer>();
         }
 
         private void InstallServices()

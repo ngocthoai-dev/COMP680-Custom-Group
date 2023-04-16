@@ -7,7 +7,7 @@ using static IA_Player;
 
 namespace Core.View
 {
-    public class InputController : MonoBehaviour, IPlayerActions
+    public class InputController : GameSingleton<InputController>, IPlayerActions
     {
         [System.Serializable]
         public class StackPress
@@ -41,6 +41,7 @@ namespace Core.View
 
         private SignalBus _signalBus;
         private IA_Player _playerInputAction;
+        public PlayerInput PlayerInput => _playerInput;
         private PlayerInput _playerInput;
         private Vector2Int _previousInput;
         public bool IsControllerEnabled { get; set; } = true;

@@ -15,6 +15,8 @@ MonoBehaviour:
   Index: 0
   CharacterName: 4 Tails
   Prefab: {fileID: 2788916764280250751, guid: 98a44300ad970ec4896035667061d174, type: 3}
+  Controller: {fileID: 22100000, guid: 9d7e3c7133fd3854598e4a4495a5ca84, type: 2}
+  Thumbnail: {fileID: 2044363315, guid: 083c58a5abaae244fb8df990a062b3a2, type: 3}
   Color: {r: 1, g: 1, b: 1, a: 1}
   Light1: {fileID: 11400000, guid: 6a1ab1d7b7ea10042b10b9a0f96b52c4, type: 2}
   Light2: {fileID: 0}

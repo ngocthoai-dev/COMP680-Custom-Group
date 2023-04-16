@@ -1,4 +1,4 @@
-﻿namespace Core.Business
+namespace Core.Business
 {
     public enum ScreenName
     {
@@ -10,11 +10,13 @@
     {
         Dummy,
         DummyUTKit,
+        
         MainMenu,
         OptionsMenu,
         CharacterToggleMenu,
         SettingsMenu,
-        ModeMenu
+        ModeMenu,
+        CharacterSelection
     }
 
     public enum ViewName
