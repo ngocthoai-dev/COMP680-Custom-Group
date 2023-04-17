@@ -95,6 +95,16 @@ namespace Core
                 .WithId(ModuleName.CharacterSelection).To<ICharacterSelection>()
                 .FromSubContainerResolve()
                 .ByInstaller<CharacterSelection.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.AboutMenu).To<IAboutMenu>()
+                .FromSubContainerResolve()
+                .ByInstaller<AboutMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.ControlsMenu).To<IControlsMenu>()
+                .FromSubContainerResolve()
+                .ByInstaller<ControlsMenu.Installer>();
         }
 
         private void InstallServices()

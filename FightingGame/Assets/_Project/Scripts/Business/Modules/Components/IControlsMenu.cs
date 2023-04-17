@@ -1,25 +1,25 @@
 ﻿namespace Core.Business
 {
-    public interface ISettingsMenu : IBaseModule
+    public interface IControlsMenu : IBaseModule
     { }
 
-    public class SettingsMenuModel : IModuleContextModel
+    public class ControlsMenuModel : IModuleContextModel
     {
         public string ViewId { get; set; }
 
         public IBaseModule Module { get; set; }
 
-        public SettingsMenuModel()
+        public ControlsMenuModel()
         { }
 
-        public SettingsMenuModel(string viewId)
+        public ControlsMenuModel(string viewId)
         {
             ViewId = viewId;
         }
 
         public IModuleContextModel Clone()
         {
-            return new SettingsMenuModel(ViewId);
+            return new ControlsMenuModel(ViewId);
         }
 
         public void Refresh()
