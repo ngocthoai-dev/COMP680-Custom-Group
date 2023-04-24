@@ -1,0 +1,4322 @@
+fileFormatVersion: 2
+guid: 65e55901dafc3be4ea139ef2b26ec851
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2113
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21823958, y: 0.028740462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e71cd278143447b3814d324d50888
+      internalID: 997113086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2113
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.25486836, y: 0.033081055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6528ab9ee60ded6478098b26ee93ac25
+      internalID: 473235941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2113
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.18175907, y: 0.042419434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab713dca21355a4aa93fa022185a5a3
+      internalID: -1426761765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2113
+        width: 35
+        height: 41
+      alignment: 9
+      pivot: {x: 0.15448129, y: 0.045612615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2e1f197817a34d95f78aeccb90bd2
+      internalID: 191888750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2113
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.173158, y: 0.029666062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b393171170b7540b43a5de5c43786c
+      internalID: -252858097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2063
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.1956988, y: 0.05154206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a9a45046b1d9546a433a561366535b
+      internalID: -1936029472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2063
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.13934681, y: 0.04086449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719318a5c682dc47ad5bfa20d82c7b4
+      internalID: -1712060348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2063
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.13230285, y: 0.03425293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a2cd2d01aaf140857f0966d470009
+      internalID: 483167972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2063
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.13782357, y: 0.021692788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b48d66e46852854fa0768e8c7b040fd
+      internalID: -762514144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2063
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.13875379, y: 0.029666062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8496432a7136d46bb0e5a7438d4632
+      internalID: -1556030459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2063
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.12899038, y: 0.029666062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b28f6f445d7b43812be8a5937e235
+      internalID: -1880678528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7349173, y: 0.031053627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9be53e14fbf95459e903c3bc5c6cc6
+      internalID: -429224745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47385255, y: 0.030162811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac33d33a38d02646aeb797eae6d3dc4
+      internalID: -1340689300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.18405275, y: 0.053579934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660b248c1b232e546931ecaee5cd92c0
+      internalID: -320718689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1411
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4159548, y: 0.09392386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e4f86cd7a03048ab3b4810b85d717
+      internalID: -684076612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1803
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.82684153, y: 0.07043457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b269de738904498c6aa5dde37fe5e
+      internalID: 488675527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372
+        width: 48
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5136183, y: 0.07510376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98707042170fb545b2120b0503e74a1
+      internalID: -1779997859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1904
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.26031572, y: 0.014689128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3410baf6358e40b6f2a8a311c93f9
+      internalID: -1454957314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1502
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.20584206, y: 0.02459162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1e1d2796b2a348a30234a47b9db24
+      internalID: -1813253928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1708
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.37548846, y: 0.04242079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed8fec4c01e24409b3ae7d5297cac8
+      internalID: 1695780233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2013
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4394734, y: 0.023947012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22883b3492e8549a923169e996eb80
+      internalID: -1460704516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1855
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.24125008, y: 0.042422485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d60e9b5a480c7d49b39580f2e71a1ba
+      internalID: 4938184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1630
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47665378, y: 0.033083547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f02989c36337f349980bafb76e9099e
+      internalID: 2141843148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1955
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20696913, y: 0.036340047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f2f10d431c1504cad15fdd72902780
+      internalID: -859291163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1552
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.44859263, y: 0.032467928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97435cfbeb1a3a54b903000f16c15992
+      internalID: -731381739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1708
+        width: 20
+        height: 45
+      alignment: 9
+      pivot: {x: 0.36926308, y: 0.020632595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a069facbca54342bbbc2f5d4df6a12
+      internalID: -1381294158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1452
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20478772, y: 0.036340047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbdd45d2672ea442ae9ba06a2fa1b6b
+      internalID: 687148821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1502
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.21823949, y: 0.03202126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e9d0960ecdcc4da48ba3a7a3d7344
+      internalID: -108843237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1316
+        width: 35
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6867665, y: 0.031053627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda173b183880a46b383143411c1110
+      internalID: -100264824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1803
+        width: 33
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5198085, y: 0.027893066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24123f73ec587844bb9d43df7486f2a7
+      internalID: 113581044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1630
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48832676, y: 0.04242079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6f725e1027af46adbe0b0e80126c4
+      internalID: 1177442129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1955
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.1942445, y: 0.03763934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f82b5b98d689418f2d8cccbc61d1a
+      internalID: -1984418674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1369
+        width: 43
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7356301, y: 0.075105794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae44406c307244e9fc4c21b534fe6a
+      internalID: -1984845283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1852
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3672204, y: 0.020167574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd924d631bffd4bad4bae081a543fa
+      internalID: -976231815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__34
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1552
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.43622512, y: 0.025768463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63963556b803a8d44b9766ca0fd7f1dd
+      internalID: 548395185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1904
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.080789484, y: 0.0551317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f46be017b549d43801f62d8a579de4
+      internalID: -563739151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2013
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4533081, y: 0.031050973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76919b5a3cc535c42af5d8ba9d2e405b
+      internalID: -2067862613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1502
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20584208, y: 0.043939635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e2fad835bb9c84d8bdfe71b069df97
+      internalID: -911427315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1803
+        width: 35
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6307364, y: 0.07328966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536adf4e5eacb674ba7caa9c9db5268e
+      internalID: 1181585146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1955
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.25750414, y: 0.035541736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14636831e57646e40a348fd2830102c4
+      internalID: -1833922093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1374
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7356301, y: 0.037913356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f87a8f97d36ad47a814694d36ea8ca
+      internalID: 975085953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1502
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20696916, y: 0.043939635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b295294354372c4d966feb16c721fd1
+      internalID: 2019983276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1552
+        width: 33
+        height: 43
+      alignment: 9
+      pivot: {x: 0.39502648, y: 0.022046465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e8d22d8c6170448953341689d227c2
+      internalID: -1024229867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1850
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47198486, y: 0.03515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75705b7e676e974fad14d1c1f72049b
+      internalID: 1236364630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1904
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.09326342, y: 0.051757812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c1a9e1d613884b85a02434d4e77a6
+      internalID: 1694649818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1802
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8533424, y: 0.08482237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d001bca16c4d8e4581acb145b9fdabe
+      internalID: -1698475657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1955
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.26332092, y: 0.031820763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45f45d3114060c4db4e9f1011a0d933
+      internalID: -748777965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2013
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3692627, y: 0.028737623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a6ae63e4a66e142a805b1d19c697c8
+      internalID: 915448148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1369
+        width: 44
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7228466, y: 0.064208984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd19d3f526fa7a4cadf2eba3e288eb8
+      internalID: 1431835244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1850
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.52971256, y: 0.01751709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dda34b08fae54488e57ad72f91e146
+      internalID: -1912516403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1554
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.22951008, y: 0.009736238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c15792eacd8ac46b169078774b5429
+      internalID: 1870076146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1802
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5204272, y: 0.0551317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6025fb218c7055439c2185ebb73a45a
+      internalID: 813267322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1955
+        width: 28
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2315227, y: 0.016274415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65680e41938cb71429239645e2c9195f
+      internalID: -250935365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1904
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.086000234, y: 0.042421177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d520ef34c058f70449d95ae5954eedda
+      internalID: 411132856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2013
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39943284, y: 0.04086449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e5e2eb5b47e3745a4ecbbf252b7c53
+      internalID: -438455355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1375
+        width: 47
+        height: 21
+      alignment: 9
+      pivot: {x: 0.79995924, y: 0.20448521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a8ecea3ac2684797c401be1dc801f
+      internalID: 401416578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1850
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.59338325, y: 0.018336246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026b262969af924691d9cb23b973189
+      internalID: 1646730805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1802
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.17315808, y: 0.064208984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e02c930fcd528428586b41ea27c8ac
+      internalID: 303287111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1955
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.18526317, y: 0.016843049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c24c609e8876341b9f057110dc2105
+      internalID: 1327923326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1904
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.086000234, y: 0.042421177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd589d643bad17d4ab7864c7a5080268
+      internalID: 1076979860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1378
+        width: 48
+        height: 21
+      alignment: 9
+      pivot: {x: 0.8551235, y: 0.12647066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db1a6098791f84b960b13c8bf24419
+      internalID: -34395052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1955
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.18526317, y: 0.031053627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ea6aef441184a469b51d80aef01dcf
+      internalID: -2041129571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2013
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.46887207, y: 0.03857422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c91e3d6a1e2fc42bb602614d36b9cc
+      internalID: -1844424079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1904
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.13015266, y: 0.029666062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c83a77ca51cf46aa0e6ecab5488b4
+      internalID: -1320458515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1955
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.1848308, y: 0.031053627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef607ccc1745dfb4f9caff9a809fb76f
+      internalID: -966866644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2012
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5167612, y: 0.018815782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda535ba08b6f44f9f6e0129c8519c6
+      internalID: 503116586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__66
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1904
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.162264, y: 0.03944813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d400339f63b31fa44a8dc73a0c7ca497
+      internalID: -388002357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2012
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.544168, y: 0.027893066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00d61dfc9748a419b3f9cb78842fcd
+      internalID: 692187510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__68
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2013
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4734992, y: 0.051757812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80c270cba2a8c647a8834ed403772f1
+      internalID: 780775197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1269
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.63706243, y: 0.057800293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebd6a583a079a4292928404b80a014
+      internalID: -887984041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1230
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.25486836, y: 0.018336246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df27cd8d9d451f479242afb36016c21
+      internalID: 887723464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1230
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.112350285, y: 0.040652715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a53247d353be654b9bd2bcfd009dd06
+      internalID: -2047533231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1230
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.17315789, y: 0.02374442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a352794166ec074591985ae7470f7f3
+      internalID: -847549576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1230
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.17315775, y: 0.033081055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e063fd605e78034c9217a4ebe4ecdc4
+      internalID: -266128964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1186
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4906614, y: 0.030686598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2c2f443c777141948fd534cac06c5
+      internalID: 1883512377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1186
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.31115806, y: 0.047447793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd340060fcfb34595f3f9cbe251e8c
+      internalID: -1202666976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1186
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.42646044, y: 0.040652715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ff9ceacc67e441af82956ae46be64
+      internalID: -1204636499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1186
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5738028, y: 0.031820763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf65f916811b164e9489b9180d6de8d
+      internalID: -1874481041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1130
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.19650367, y: 0.025300525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792a8487b45bc1142b59ff6fa737777b
+      internalID: 570908752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1130
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0.29200935, y: 0.020167574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a127544c739b546b0c9b23a129b596
+      internalID: -340960966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1130
+        width: 20
+        height: 49
+      alignment: 9
+      pivot: {x: 0.38560486, y: 0.013071489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d958707dc8c1243ba515aa6369beff
+      internalID: -2107686158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1130
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.40052596, y: 0.033083547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d2c2c818ba8714487463ad9a6b9a84
+      internalID: -17705655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1130
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.38686195, y: 0.026412029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12fb3fcff798624f8a7f71b7786e28c
+      internalID: 648109423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__84
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1130
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3578949, y: 0.026412029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5947998459844f9435db072db4419
+      internalID: 676586372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1130
+        width: 20
+        height: 49
+      alignment: 9
+      pivot: {x: 0.33657837, y: 0.019743005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adcaaeb671f854986fe157347a2a0f
+      internalID: 440974793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1130
+        width: 23
+        height: 49
+      alignment: 9
+      pivot: {x: 0.41473654, y: 0.019743005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe89e8715bef71544a5bfe50f6439723
+      internalID: -1974344931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1130
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4215576, y: 0.019743005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb935d1b00cf8641bd803b5754ecd86
+      internalID: -1504951725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__88
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1130
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3811479, y: 0.026412029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813633a6792e8df499b5448d7864eeba
+      internalID: -2003890379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1081
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.12208903, y: 0.037636362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16e24478ffb764aade1f432ef4557a
+      internalID: 938161745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1081
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.12208903, y: 0.029666062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043be9052d20e2740b0774ca2837a266
+      internalID: -30693488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1040
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.1632536, y: 0.07702637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fd263ee28821488131e1559378fb2
+      internalID: -1330750055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1041
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.19896126, y: 0.03857422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861eef2cb910ffa4ea9e2a2b492f6de8
+      internalID: 1690502865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 988
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.36684185, y: 0.002631146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ad7e4211dc8041931bf03f4952ffb
+      internalID: -1962363719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.592354, y: -0.016770307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e9d1559c2dbc48b52af032d440974
+      internalID: 63772651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 942
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.539617, y: 0.02374442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d5a7e1c61a2f4690c78c0e8b07d20
+      internalID: -2017152988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__96
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 942
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.54188234, y: 0.009596471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48232d9effe844b96233f1b2e14947
+      internalID: -610883859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 940
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.55461246, y: 0.031820763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02fbf7859baee24ebcd0f8c0ccf16a8
+      internalID: 1816624572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__98
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 940
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.51021385, y: 0.03697374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4062a059c44e4cbcbe0334d451a4f
+      internalID: 261266233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 940
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46212545, y: 0.038075764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded8dd9303cf00e49a0359a4cd71d82c
+      internalID: -1074456576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__100
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 870
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.45293635, y: 0.02168981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573fdbd3fd34284b9d1ac5bcb2b43ff
+      internalID: -447917931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 870
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46014875, y: -0.008784703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3cb706138b074fa181ce1c9ab8e6b
+      internalID: 897880872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__102
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 870
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5062928, y: 0.00973656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e99ffc02d710941bce2bb1a0185944
+      internalID: -141837850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__103
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 870
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4451453, y: 0.017518543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d14423bf5de845b2002983cddf09c
+      internalID: -1645258595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__104
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 870
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4324008, y: 0.004365467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97949699f59fd74696f949138d0bf90
+      internalID: 1088071842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__105
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 870
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51434326, y: 0.031316847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc1365ba1803240896824428acc99e
+      internalID: -1591425471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__106
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44124702, y: 0.06067912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b196c9a642c67042ac05491a0a16952
+      internalID: 151167966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__107
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 870
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48340905, y: 0.029058548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b6cdfdd0a0a94eb64abcbbe2d9432
+      internalID: -1809410253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__108
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 870
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4749756, y: 0.017514184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79808469286ede1499a4c1a5743cb2c0
+      internalID: -2137359781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 756
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49542627, y: 0.01898654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a71cf3bf399b04f9cdbfb3c0cdd1b9
+      internalID: -641130629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__110
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 756
+        width: 51
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4810791, y: 0.016692063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd3184d6a83344baccf99b06b88794
+      internalID: 387895667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__112
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 756
+        width: 47
+        height: 56
+      alignment: 9
+      pivot: {x: 0.48642293, y: 0.022777012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b01dd4925f072647b31ba0412082271
+      internalID: 22634859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 756
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.20287114, y: 0.03763785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c648779043f25624d8b9c85d5b8f91c5
+      internalID: 1050319316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__115
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 755
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.26654163, y: 0.021138037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28667471cf46614fb6d143b3a873b00
+      internalID: 79972647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__116
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 755
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 0.37098292, y: 0.005936024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4535a5fa2150acd4fabf7b6b802a94b1
+      internalID: -1958775371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__117
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 755
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.34982878, y: 0.024593007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd16ce4a65bdde4d8751c5e7b8d88f2
+      internalID: -27513453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__118
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 755
+        width: 25
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3169678, y: 0.01898654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5c5053a8cc23548b4f89499ba52524
+      internalID: 193515965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__119
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 755
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.27000144, y: 0.025758034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37e41b5e8e12244b90f3b25b527c16
+      internalID: 314021508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__121
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 641
+        width: 30
+        height: 51
+      alignment: 9
+      pivot: {x: 0.31478932, y: 0.025758034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8b550a4f1486489fd37ef9a61a550
+      internalID: -1069449922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 641
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3256841, y: 0.016545614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9dce052334c64e849c2613b2400ef
+      internalID: -819434282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__124
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 641
+        width: 30
+        height: 53
+      alignment: 9
+      pivot: {x: 0.29300028, y: 0.01898654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b2ab7b78566b4eadab8f708e8688c
+      internalID: -524890533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__125
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 641
+        width: 30
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3256846, y: 0.025153395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70a62506e7c2f4684b5dac6a676e8c
+      internalID: -19256192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__126
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 641
+        width: 28
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2782146, y: 0.013213462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bfd286535327e4bb82a0b255842bce
+      internalID: 236370470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__127
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 641
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.30840224, y: 0.035157606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93cea9b83c98d24297c69ca7b145835
+      internalID: -1383787230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__128
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 641
+        width: 30
+        height: 45
+      alignment: 9
+      pivot: {x: 0.30389607, y: 0.020631239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ee870484bf2f4eaa6fd4ec7797c7b
+      internalID: -4541055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__129
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 642
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.26115534, y: 0.036340047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb983a3c4bff04b93d2cb12919ba81
+      internalID: 272254501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__130
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 642
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.26804867, y: 0.016841723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4acee4458a71fc46be3cac534a071e5
+      internalID: -1881918802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 211
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.00048712964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057bec1887b32948bc2c1e87d0e3c6b
+      internalID: 310600518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__132
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 527
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20157921, y: 0.059143066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f36ab265d2be5e48907f87c0f9cd6ab
+      internalID: -976246484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__133
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 427
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.826841, y: 0.03424988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a1f11f285d244c8898bd1818c5ee4
+      internalID: -1450096697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__134
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 427
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.15207143, y: 0.038157586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b9896c2c1d24458f51595e296bcb3
+      internalID: 741784454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__135
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 427
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.1949473, y: 0.03906876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbc4bc9d1568f444a5633993e23cb8c
+      internalID: -1287151919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 427
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.20287068, y: 0.042421177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a701fad9a92040a352bbfe45cbbdf
+      internalID: -1800491549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__137
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 428
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.2782146, y: 0.104348436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9777e386b8b83240806bbbaebdb10b5
+      internalID: -1747029958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__138
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 429
+        width: 27
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7784198, y: 0.03424988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dc9133d902a6f46b835de1d8b3b960
+      internalID: -1723157402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__139
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 429
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.35992432, y: 0.03554013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0847b941d626d5d49ba86207b2f0abbf
+      internalID: -1333375909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__140
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 427
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6806223, y: 0.03424988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e83420e91142345b4cc18fcd978860
+      internalID: -65357804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__141
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 427
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6943392, y: 0.03906876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a5abaed765e7448f703e804c558e8
+      internalID: -1769427206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__142
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 427
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.8493842, y: 0.022307567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8a28b245b0224fbb837978e55adb7
+      internalID: 1293138653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__143
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 374
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.31696808, y: 0.009736903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090240d59c94eaf4f856c87670f97d38
+      internalID: 27734085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__144
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 374
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2737245, y: 0.014689128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53adf3091be0441a5cd100ce75e4d9
+      internalID: 216769709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__145
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 371
+        width: 50
+        height: 35
+      alignment: 9
+      pivot: {x: 0.42809477, y: 0.042421177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d098a4ed832d844890c1f4c4c82c73
+      internalID: 1665978798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__146
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 371
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.47821045, y: 0.0551317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7546a2c0ca454e45afa88da4900fdf5
+      internalID: 315537777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__147
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 371
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.49319077, y: 0.01440604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a60b4105fe984a86f4e21422c4aa0
+      internalID: 1252020263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__148
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 371
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.51556396, y: 0.0551317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f65f802ad1b046ab28ce2b6ee0325
+      internalID: 500189706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__149
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 371
+        width: 52
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4057183, y: 0.061097935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62052deca5103b84388af2c4de019cd6
+      internalID: -1885575146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__150
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 371
+        width: 50
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4607788, y: 0.042421177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e750847bb52f45ab0f7ab64d4de07
+      internalID: 1441552658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__151
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 371
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4795723, y: 0.022987159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb159a685a13bd479a740e63c2bb8bb
+      internalID: 882910248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__152
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 371
+        width: 47
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4513212, y: 0.005067662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660732b50d86d54a9654adc64a88422
+      internalID: 825321520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__153
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 316
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5155636, y: 0.0097378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb6643888a46d4985dab7c5f44d1c3
+      internalID: 1879859175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__154
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 316
+        width: 51
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4166873, y: 0.00012476304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d612a5779cfb6ea4aaea83f83a1e11a0
+      internalID: 1161254337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__155
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 316
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44116822, y: 0.027894761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d71498c48a1b4ba70c91d46123274
+      internalID: 848411262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__156
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 316
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.47157884, y: 0.01934994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640ed72e35ce3be43918f2a7b49300b7
+      internalID: 1592980841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__157
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 316
+        width: 53
+        height: 32
+      alignment: 9
+      pivot: {x: 0.41983148, y: 0.08123207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3847496912d3449136e871732ead7
+      internalID: 1237975879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__158
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 316
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4542407, y: 0.060804367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f55d16e779cc884ab41bdf7fc85c805
+      internalID: 1492545928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__159
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 316
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4733189, y: 0.067415126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896290a0704bd54eb3559f01e32f481
+      internalID: -324839266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__160
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 316
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49319077, y: 0.060804367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ed468b9991974bb9051c38064608a
+      internalID: -978778292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__161
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 316
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.51556396, y: 0.060804367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45eef8a96ccef49b459e68b86c247e
+      internalID: -1864654141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__162
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 316
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.44343096, y: 0.050590515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bdfcc226e1f3f49811537b77c07962
+      internalID: 171927948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__163
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 260
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48038936, y: 0.048187256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742604a3a52fac44a6966ecc9c6d31c
+      internalID: -2118719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__164
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 260
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49289456, y: 0.09144592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f2d368ee2b0642888336946cca54f
+      internalID: 2132469267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__165
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 262
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.65778536, y: 0.013926971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481e166cd0308934d8fd899a903f1f35
+      internalID: -247212223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__166
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 262
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5326843, y: 0.021694276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9cc18df2ba07b419de30e7841a4bbc
+      internalID: -1609897658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__167
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 262
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.41828918, y: 0.026078796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faea2547e9015b45a35ccd2a838ce64
+      internalID: -252219015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__168
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 262
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.26031595, y: 0.027894761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c917f719693464f87fc7fbe4953bf7
+      internalID: -1041384340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__169
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 262
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.27859202, y: 0.033082798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f624469a601f3d34aba90ba835f9ba3b
+      internalID: -1148254516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__170
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 260
+        width: 53
+        height: 37
+      alignment: 9
+      pivot: {x: 0.41366404, y: 0.04065519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267c58293a80014ea4b9fb99b86fc98
+      internalID: -687720247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__171
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 260
+        width: 53
+        height: 34
+      alignment: 9
+      pivot: {x: 0.38899663, y: 0.009735107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd358b2398444304697c4041b5947c50
+      internalID: 562230773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__172
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 260
+        width: 46
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47625202, y: 0.027686866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b55b54e206b28489a560df7846eeb3
+      internalID: -2018566351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__173
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 53
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3951638, y: 0.03308149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f2b181300d27428802fddd1cff841
+      internalID: -1848388563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__174
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.450263, y: 0.03308149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f865e40e20c34b93500e6b464922e
+      internalID: -1403284225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__175
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 204
+        width: 49
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4332973, y: 0.023743112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a2d7ab7ac5d9d4daf6f3d49dc01c58
+      internalID: -371224470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__176
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5148565, y: 0.055130005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc42cf9fb7d214bb31ce17e835e3ee
+      internalID: 1482947040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__177
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 204
+        width: 51
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4230963, y: 0.04241987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcb2b040e29345408cabe4d9a32d983
+      internalID: -1129953270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__178
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 204
+        width: 53
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4136646, y: 0.06109619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8cafc4b784b246b1a7d5b239309b9
+      internalID: 1791373744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__179
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 204
+        width: 53
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4444983, y: 0.034496423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe55124d0c40f04db18529a31e08aac
+      internalID: -612211260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__180
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 204
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5142106, y: 0.04241987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e52f85958e5e4b88a2b46489f78fa
+      internalID: -660246511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__181
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 204
+        width: 54
+        height: 33
+      alignment: 9
+      pivot: {x: 0.43947348, y: 0.01468774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6d86107a516a24e800979cdb2c46cb
+      internalID: 1597176942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__182
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 204
+        width: 46
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49999735, y: 0.06972804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7625a2f1bae54f98eeaab7ab16253
+      internalID: -806877786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__183
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 148
+        width: 50
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4607789, y: 0.054305106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806d6d805058de4a8263cfc28ac3f4a
+      internalID: 1765547285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__184
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 148
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5380047, y: 0.048187703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4da7b8c320dc3469e40e8138c0ee62
+      internalID: 1047152854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__185
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 148
+        width: 51
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45513916, y: 0.054305106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffe4b11e6c53242b72273e9ae1d5d0
+      internalID: 1534170612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__186
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.33130732, y: 0.031821173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292964cc367638646993a0d22960cdc9
+      internalID: -415179755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__187
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 35
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7614733, y: 0.036974166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad34de042589b54b9c481fc762b2069
+      internalID: 1210552203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__188
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 100
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.75955063, y: 0.055830147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec9af895c73494ead1c17df58ec13e
+      internalID: 683123225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__189
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.76916367, y: 0.061098155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b68ea60297f542b0a8325af3ff4e1
+      internalID: -1033840446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__190
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.8076158, y: 0.042421397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03df59bf6c69f745936e37ab57256ec
+      internalID: -917481394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7883902, y: 0.023744855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01900711c48eed47b9564ccf0efcea3
+      internalID: -1436470215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__193
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 191
+        height: 88
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.0060228924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c416affa4327166419d7263f3264d8df
+      internalID: 1466534438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__69
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2014
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5530016, y: 0.033081055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692352de611bceb4aaddd23ef64ec735
+      internalID: -1499718091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__19: 1695780233
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__110: 387895667
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__130: -1881918802
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__51: 813267322
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__147: 1252020263
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__52: -250935365
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__61: -2041129571
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__30: 1177442129
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__131: 310600518
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__54: -438455355
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__161: -1864654141
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__177: -1129953270
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__105: -1591425471
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__166: -1609897658
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__123: 442200976
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__133: -1450096697
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__57: 303287111
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__183: 1765547285
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__80: -340960966
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__68: 780775197
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__106: 151167966
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__114: 1050319316
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__97: 1816624572
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__155: 848411262
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__99: -1074456576
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__187: 1210552203
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__7: 483167972
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__156: 1592980841
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__134: 741784454
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__49: -1912516403
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__59: 1076979860
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__77: -1204636499
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__72: -2047533231
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__162: 171927948
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__127: -1383787230
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__160: -978778292
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__174: -1403284225
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__137: -1747029958
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__23: -859291163
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__139: -1333375909
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__154: 1161254337
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__56: 1646730805
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__101: 897880872
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__135: -1287151919
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__178: 1791373744
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__40: 975085953
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__5: -1936029472
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__124: -524890533
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__21: 4938184
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__43: 1236364630
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__93: -1962363719
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__64: -966866644
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__102: -141837850
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__41: 2019983276
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__180: -660246511
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__53: 411132856
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__46: -748777965
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__74: -266128964
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__83: 648109423
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__62: -1844424079
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__172: -2018566351
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__36: -2067862613
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__13: -320718689
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__169: -1148254516
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__182: -806877786
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__91: -1330750055
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__85: 440974793
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__109: -641130629
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__108: -2137359781
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__32: -1984845283
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__45: -1698475657
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__90: -30693488
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__112: 22634859
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__65: 503116586
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__86: -1974344931
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__170: -687720247
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__58: 1327923326
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__11: -429224745
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__115: 79972647
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__22: 2141843148
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__189: -1033840446
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__126: 236370470
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__150: 1441552658
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__146: 315537777
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__191: -1436470215
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__71: 887723464
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__122: -819434282
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__35: -563739151
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__165: -247212223
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__44: 1694649818
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__144: 216769709
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__24: -731381739
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__89: 938161745
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__42: -1024229867
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__129: 272254501
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__181: 1597176942
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__95: -2017152988
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__26: 687148821
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__81: -2107686158
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__142: 1293138653
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__92: 1690502865
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__111: 1421882197
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__140: -65357804
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__47: 915448148
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__31: -1984418674
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__152: 825321520
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__70: -887984041
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__151: 882910248
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__143: 27734085
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__96: -610883859
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__4: -252858097
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__6: -1712060348
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__136: -1800491549
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__33: -976231815
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__66: -388002357
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__107: -1809410253
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__10: -1880678528
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__55: 401416578
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__9: -1556030459
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__125: -19256192
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__184: 1047152854
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__3: 191888750
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__38: 1181585146
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__17: -1454957314
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__103: -1645258595
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__2: -1426761765
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__171: 562230773
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__185: 1534170612
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__164: 2132469267
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__167: -252219015
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__18: -1813253928
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__78: -1874481041
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__48: 1431835244
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__20: -1460704516
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__113: 1837222492
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__27: -108843237
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__132: -976246484
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__118: 193515965
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__1: 473235941
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__190: -917481394
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__14: -684076612
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__158: 1492545928
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__0: 997113086
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__173: -1848388563
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__67: 692187510
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__116: -1958775371
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__84: 676586372
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__149: -1885575146
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__8: -762514144
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__16: -1779997859
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__188: 683123225
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__98: 261266233
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__120: 984894167
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__119: 314021508
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__117: -27513453
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__60: -34395052
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__28: -100264824
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__25: -1381294158
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__88: -2003890379
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__193: 1466534438
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__37: -911427315
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__75: 1883512377
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__145: 1665978798
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__153: 1879859175
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__82: -17705655
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__186: -415179755
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__141: -1769427206
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__15: 488675527
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__179: -612211260
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__128: -4541055
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__100: -447917931
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__192: 2060837437
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__29: 113581044
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__157: 1237975879
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__148: 500189706
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__159: -324839266
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__176: 1482947040
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__50: 1870076146
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__138: -1723157402
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__168: -1041384340
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__73: -847549576
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__175: -371224470
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__79: 570908752
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__87: -1504951725
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__34: 548395185
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__63: -1320458515
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__76: -1202666976
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__104: 1088071842
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__69: -1499718091
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__12: -1340689300
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__121: -1069449922
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__163: -2118719712
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__94: 63772651
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Neji Hyuga__39: -1833922093
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

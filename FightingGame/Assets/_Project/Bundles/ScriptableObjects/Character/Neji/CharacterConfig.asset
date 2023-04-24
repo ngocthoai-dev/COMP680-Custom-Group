@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4866e17b5928183468c2cb115e890cc7, type: 3}
+  m_Name: CharacterConfig
+  m_EditorClassIdentifier: Framework:Core.SO:CharacterConfigSO
+  Index: 1
+  CharacterName: Neji
+  Prefab: {fileID: 2788916764280250751, guid: 8a05eb714bdeb430cafbaeb60be796b3, type: 3}
+  Controller: {fileID: 22100000, guid: 99ef48f0c633643f58e045b14867bd80, type: 2}
+  Thumbnail: {fileID: 997113086, guid: 65e55901dafc3be4ea139ef2b26ec851, type: 3}
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Light1: {fileID: 11400000, guid: e003428a7ad984330b2787b5240294cd, type: 2}
+  Light2: {fileID: 11400000, guid: 37fdc1b9581004a9d866d71b57e29c21, type: 2}
+  Light3: {fileID: 11400000, guid: 2b4c3e0a6afec4eb394da4bbf7526b2f, type: 2}
+  Heavy: {fileID: 11400000, guid: 23c0191f2e1a748b39c2688461385285, type: 2}
+  Skill1: {fileID: 11400000, guid: 6b82cdde1805a424d9e3e5c4bdbd5096, type: 2}
+  Skill2: {fileID: 11400000, guid: 6c452d567904c41bf87cda557c829eb9, type: 2}
+  StatLevels:
+    list:
+    - Key: 0
+      Value: 2
+    - Key: 1
+      Value: 3
+    - Key: 2
+      Value: 3
+    - Key: 3
+      Value: 2
+    - Key: 4
+      Value: 4
+    - Key: 5
+      Value: 3
+    - Key: 6
+      Value: 5
+    - Key: 7
+      Value: 2
+  CharacterStats:
+    Stats:
+      list:
+      - Key: 0
+        Value:
+          BaseValue: 150
+      - Key: 1
+        Value:
+          BaseValue: 120
+      - Key: 2
+        Value:
+          BaseValue: 0.17
+      - Key: 3
+        Value:
+          BaseValue: 12
+  LevelStatsConfigSO: {fileID: 11400000, guid: e3f73f4b8aff6ad4e8503891e6dc3c24, type: 2}
+  CanDoubleJump: 1

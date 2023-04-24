@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4866e17b5928183468c2cb115e890cc7, type: 3}
+  m_Name: CharacterConfig
+  m_EditorClassIdentifier: Framework:Core.SO:CharacterConfigSO
+  Index: 1
+  CharacterName: Itachi
+  Prefab: {fileID: 2788916764280250751, guid: 3ad2234c2d8bb4f32a8b273835fac93c, type: 3}
+  Controller: {fileID: 22100000, guid: 7b29101cff49548fdb8f3b3ad31bb710, type: 2}
+  Thumbnail: {fileID: -1965967063, guid: bdc039742259c3f4ab45cd3be6578d47, type: 3}
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Light1: {fileID: 11400000, guid: d6109a668adba49dfaa00f7704385193, type: 2}
+  Light2: {fileID: 11400000, guid: 2385f9b916dd441c6a58ad94a803a5da, type: 2}
+  Light3: {fileID: 11400000, guid: 73f476f82367348f4b5c8c4dd76cdf7d, type: 2}
+  Heavy: {fileID: 11400000, guid: b7332a8872f2046ae97b92dda73e543f, type: 2}
+  Skill1: {fileID: 11400000, guid: 9dc51757e52044d23b7c4c85caa7885e, type: 2}
+  Skill2: {fileID: 11400000, guid: e7a34481cd2654644902a80e0d8aa19e, type: 2}
+  StatLevels:
+    list:
+    - Key: 0
+      Value: 2
+    - Key: 1
+      Value: 5
+    - Key: 2
+      Value: 5
+    - Key: 3
+      Value: 2
+    - Key: 4
+      Value: 3
+    - Key: 5
+      Value: 2
+    - Key: 6
+      Value: 2
+    - Key: 7
+      Value: 5
+  CharacterStats:
+    Stats:
+      list:
+      - Key: 0
+        Value:
+          BaseValue: 150
+  LevelStatsConfigSO: {fileID: 11400000, guid: e3f73f4b8aff6ad4e8503891e6dc3c24, type: 2}
+  CanDoubleJump: 1

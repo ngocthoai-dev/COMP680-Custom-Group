@@ -47,8 +47,8 @@ namespace Core.GGPO
             if (isDebugBattle)
             {
                 _charConfigs = new CharacterConfigSO[2];
-                _charConfigs[0] = await _bundleLoader.LoadAssetAsync<CharacterConfigSO>("Assets/_Project/Bundles/ScriptableObjects/Character/FourTails/CharacterConfig.asset");
-                _charConfigs[1] = await _bundleLoader.LoadAssetAsync<CharacterConfigSO>("Assets/_Project/Bundles/ScriptableObjects/Character/FourTails/CharacterConfig 1.asset");
+                _charConfigs[0] = await _bundleLoader.LoadAssetAsync<CharacterConfigSO>("Assets/_Project/Bundles/ScriptableObjects/Character/4Tails/CharacterConfig.asset");
+                _charConfigs[1] = await _bundleLoader.LoadAssetAsync<CharacterConfigSO>("Assets/_Project/Bundles/ScriptableObjects/Character/3Tails/CharacterConfig 1.asset");
                 PreStartGame(_charConfigs).StartLocalGame();
             }
         }

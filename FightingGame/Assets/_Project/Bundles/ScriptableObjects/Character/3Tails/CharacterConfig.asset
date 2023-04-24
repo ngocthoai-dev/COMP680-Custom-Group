@@ -10,12 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4866e17b5928183468c2cb115e890cc7, type: 3}
-  m_Name: CharacterConfig 1
+  m_Name: CharacterConfig
   m_EditorClassIdentifier: Framework:Core.SO:CharacterConfigSO
-  Index: 0
-  CharacterName: 4 Tails
-  Prefab: {fileID: 2788916764280250751, guid: 98a44300ad970ec4896035667061d174, type: 3}
-  Color: {r: 0, g: 1, b: 0.13725491, a: 1}
+  Index: 1
+  CharacterName: 3 Tails
+  Prefab: {fileID: 2788916764280250751, guid: ed69037fbaf564e169505706b9ab4559, type: 3}
+  Controller: {fileID: 22100000, guid: 77a7108d60fb44c16b2d026b13986790, type: 2}
+  Thumbnail: {fileID: -2019862616, guid: 4d6b73343753c154c8bd34e8494d6f59, type: 3}
+  Color: {r: 1, g: 1, b: 1, a: 1}
   Light1: {fileID: 11400000, guid: 6a1ab1d7b7ea10042b10b9a0f96b52c4, type: 2}
   Light2: {fileID: 0}
   Light3: {fileID: 0}
@@ -27,45 +29,45 @@ MonoBehaviour:
     - Key: 0
       Value: 3
     - Key: 1
-      Value: 1
+      Value: 2
     - Key: 2
-      Value: 1
+      Value: 4
     - Key: 3
-      Value: 1
+      Value: 2
     - Key: 4
-      Value: 1
+      Value: 3
     - Key: 5
-      Value: 1
+      Value: 2
     - Key: 6
-      Value: 1
+      Value: 2
     - Key: 7
-      Value: 1
+      Value: 4
   CharacterStats:
     Stats:
       list:
       - Key: 0
         Value:
-          BaseValue: 120
+          BaseValue: 180
       - Key: 1
         Value:
-          BaseValue: 80
+          BaseValue: 100
       - Key: 2
         Value:
-          BaseValue: 1
+          BaseValue: 0.1
       - Key: 3
         Value:
-          BaseValue: 24
+          BaseValue: 12
       - Key: 4
         Value:
-          BaseValue: 3
+          BaseValue: 3.4
       - Key: 5
         Value:
-          BaseValue: 6
+          BaseValue: 6.2
       - Key: 6
         Value:
-          BaseValue: 1
+          BaseValue: 1.1
       - Key: 7
         Value:
-          BaseValue: 14
+          BaseValue: 18
   LevelStatsConfigSO: {fileID: 11400000, guid: e3f73f4b8aff6ad4e8503891e6dc3c24, type: 2}
   CanDoubleJump: 1

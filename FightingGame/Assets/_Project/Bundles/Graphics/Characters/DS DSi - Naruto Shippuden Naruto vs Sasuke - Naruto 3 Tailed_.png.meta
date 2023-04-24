@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: 4d6b73343753c154c8bd34e8494d6f59
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2824
+        width: 66
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5921683, y: 0.03290667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df8d3bb76154f44b8ebfeaae4d36d7
+      internalID: 971146991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2824
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.60734916, y: 0.024414062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6273c47a9ae6e5847b71b8ba19d5243a
+      internalID: 1328288045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2824
+        width: 94
+        height: 49
+      alignment: 9
+      pivot: {x: 0.39645776, y: 0.053078163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1d9414919f1f43959267aa3287212
+      internalID: 1487858953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2824
+        width: 78
+        height: 56
+      alignment: 9
+      pivot: {x: 0.41421273, y: 0.043770928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f493232e70ceff348b0be00fee484e7c
+      internalID: 233459058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2758
+        width: 67
+        height: 53
+      alignment: 9
+      pivot: {x: 0.59987193, y: 0.01794664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9358ef3230577034cb9d7103ba8c85c3
+      internalID: -1526070847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2758
+        width: 66
+        height: 53
+      alignment: 9
+      pivot: {x: 0.509217, y: 0.02942125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381b4b70cac8474a858880a3e97d6b0
+      internalID: 1720695976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2758
+        width: 70
+        height: 49
+      alignment: 9
+      pivot: {x: 0.50869054, y: -0.008993343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2414fb8252da4949b6bb9f4d38cb320
+      internalID: 1422329181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2758
+        width: 72
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4155125, y: 0.0081761135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690371687aefcba48987aa38fe28e26b
+      internalID: -690770762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2691
+        width: 68
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5715661, y: 0.038523708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e01084937da74bb1a23b7a52725eb
+      internalID: -1161932514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2691
+        width: 82
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48516324, y: 0.025522461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c5446b046c67409402b5fce283689
+      internalID: -1822682979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2693
+        width: 74
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5986452, y: 0.028250558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176abd8830919743b7be36bd421833f
+      internalID: -768921008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2693
+        width: 66
+        height: 53
+      alignment: 9
+      pivot: {x: 0.638253, y: 0.040900465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0494fba318a141ad4ea8fcaa7744e
+      internalID: 885635201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2618
+        width: 62
+        height: 58
+      alignment: 9
+      pivot: {x: 0.51962304, y: 0.028038288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f90534d6b509142a21ccc885927fa8
+      internalID: -1601289408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2618
+        width: 57
+        height: 51
+      alignment: 9
+      pivot: {x: 0.27588588, y: 0.046750534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696d8a408f78e6449f30bda43fbb4c3
+      internalID: -192590409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2618
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44150895, y: 0.039425224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd3f614056888428ada45497c28068
+      internalID: 1046621653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2618
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 0.45228967, y: 0.019239856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41642c6368c0690458d63bc0d2073dc3
+      internalID: -2107867330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2618
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.34468696, y: 0.035475854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73318fb8d59afc4a89adeca33968f9a
+      internalID: 1338780943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2550
+        width: 55
+        height: 58
+      alignment: 9
+      pivot: {x: 0.853926, y: 0.038523708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d0c32ef5c0a04dbb6e6f0381a6415
+      internalID: -2003718237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2548
+        width: 71
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.0064674234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e8cac94009b9c46a2e3c3e84019297
+      internalID: 1466828248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2555
+        width: 77
+        height: 56
+      alignment: 9
+      pivot: {x: 0.46049955, y: 0.02204241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec9b1b71f942f54a8265357fee7a9fc
+      internalID: -1925310777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2555
+        width: 63
+        height: 53
+      alignment: 9
+      pivot: {x: 0.43240985, y: 0.02942125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6cf63022418f46ac8038869289b8c
+      internalID: 1774849333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2555
+        width: 67
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5272381, y: 0.05390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee071f35df72f49a50f301d6d43ab5
+      internalID: -322062413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2486
+        width: 46
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.013352273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6414ae5c3a88c546bec78546fbd598a
+      internalID: 320938007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2477
+        width: 80
+        height: 55
+      alignment: 9
+      pivot: {x: 0.507604, y: 0.10183771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73e7c1ef6ee5d48a169f61603ff759
+      internalID: -1709129754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2473
+        width: 91
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5200544, y: 0.112895064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0d7259239d105428c18790392bf108
+      internalID: -598745394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2472
+        width: 76
+        height: 56
+      alignment: 9
+      pivot: {x: 0.59604925, y: 0.16326033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab38206ed65e777409e86fcd85f3bc73
+      internalID: 1483956351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2403
+        width: 72
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6182827, y: 0.02112076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb3c0fb6f64594e9aaf84bf9f092bd
+      internalID: 994736744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2407
+        width: 75
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53763735, y: 0.0014415922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deab8f0edfcb5040965792deb831bf6
+      internalID: -575703152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2403
+        width: 69
+        height: 45
+      alignment: 9
+      pivot: {x: 0.55345154, y: 0.046099175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6718e174d172541878fa1f2c59ebe6
+      internalID: 241401518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2404
+        width: 70
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6900199, y: 0.013351779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107bebedd0dfeb442ac5b537227691bc
+      internalID: -99377000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2408
+        width: 73
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4750015, y: 0.026871745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ccaaf54b2f9044aad91ab5d6e77a2
+      internalID: 693250485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2403
+        width: 74
+        height: 47
+      alignment: 9
+      pivot: {x: 0.54636693, y: 0.04327003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01edee61fffaa43b8947e61558e33a
+      internalID: -1049852831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2338
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 0.77156717, y: 0.026871745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9ff59b8294b9429c509fc444c6191
+      internalID: 1863090369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2262
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6153693, y: 0.035471413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94452150d1f3b741b46fe01144f7ca9
+      internalID: -705606881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2259
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.59279335, y: 0.06829637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4745f5448334145864be974022f685
+      internalID: -755314462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2065
+        width: 62
+        height: 54
+      alignment: 9
+      pivot: {x: 0.62754923, y: 0.026869033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482711ad77637b3438969dc27235ef1c
+      internalID: -1847160909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2197
+        width: 65
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5561518, y: 0.011182512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ccdb79d7b2732458253e23dcee374c
+      internalID: -712393145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2197
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5553011, y: 0.04634534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8439c9b542351fd43b8c7cd513d245cd
+      internalID: -719535022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2132
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5734169, y: 0.035475854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7a9207657e6e4aa747b7aaf407171
+      internalID: 1456467059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2132
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5698062, y: 0.028038288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380006002143c184eb1deb5961d33df5
+      internalID: -911745835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2135
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.57217276, y: 0.02204241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214c3b9b77a9a84f9500a81753f5e03
+      internalID: -1945395430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__45
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2136
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.037685547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028f8e44a910a74aab73cbc6f6f25bf
+      internalID: -1100396182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2066
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6235631, y: 0.013352273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16145cd8399e503418d4a57278beab61
+      internalID: 1901938236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2066
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 0.63736045, y: 0.02204241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58fbec7cc788f446b79d710c64653b6
+      internalID: -1143276019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2066
+        width: 64
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6235633, y: 0.011178153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51e5a8268bf8884f82a841e05b5557a
+      internalID: -59100961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2066
+        width: 65
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6310209, y: 0.011178153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55acb303c842846998379cc50932d0
+      internalID: 698995226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2066
+        width: 65
+        height: 53
+      alignment: 9
+      pivot: {x: 0.649738, y: 0.052375074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71ec88e37d96e4d8c0fdd2767ab0e4
+      internalID: 1361685940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__53
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2066
+        width: 63
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5965576, y: 0.0064674234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed3c7cabc0b219479bef2d8539471b2
+      internalID: 1407463895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2001
+        width: 56
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5977643, y: 0.035473634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074fd9ba2f249354ba2ed290eb1ecdce
+      internalID: -59045629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2001
+        width: 59
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5927932, y: 0.020371657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd9fd2f91e7caf46a18496536d50942
+      internalID: 1035519344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1942
+        width: 61
+        height: 45
+      alignment: 9
+      pivot: {x: 0.75927997, y: 0.080943465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd51330b3419648bab931628379c52
+      internalID: -1270496118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1873
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5608311, y: 0.06326685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365c73bd57ecaff4d838e72bf643cd12
+      internalID: -211699468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1866
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51267356, y: 0.06778115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7721faddecfbbf4bb97172f8ca4a2cf
+      internalID: 759041920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1860
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.15239607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd4ea8af06def47b68cffa84d687e9
+      internalID: 820970651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1864
+        width: 49
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51241475, y: 0.06778115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920c0b11d75c86e428fc61908a26f773
+      internalID: 425751146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1859
+        width: 72
+        height: 27
+      alignment: 9
+      pivot: {x: 0.51689786, y: 0.11699309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e129ce1a77bc448bc54d78e6bf0fe
+      internalID: 550523612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1788
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.74984187, y: 0.04634534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e6f5c30be58141b3ed996c788e481
+      internalID: -130861288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1788
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.663776, y: 0.038523708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330cdf235e5f4b49864b126c513773d
+      internalID: -1426166392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1731
+        width: 63
+        height: 43
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.061452467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7b38073d884e4ca8807a26815f184
+      internalID: -1587802592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1663
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5853769, y: 0.017944336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213fb3b114384f4dad8237ae25c1e99
+      internalID: 1817564176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1663
+        width: 70
+        height: 52
+      alignment: 9
+      pivot: {x: 0.430479, y: 0.043769248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029dab6903c004847bbe0a7e3d75e116
+      internalID: -736194584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1663
+        width: 52
+        height: 46
+      alignment: 9
+      pivot: {x: 0.31282777, y: 0.023931088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a127d82d95e0747b299a1fb1cdb6fe
+      internalID: 519270858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__69
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1663
+        width: 51
+        height: 46
+      alignment: 9
+      pivot: {x: 0.35686836, y: 0.05038054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba5105f324f0c48ab37e1a0edf3498
+      internalID: 1333781050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1663
+        width: 58
+        height: 48
+      alignment: 9
+      pivot: {x: 0.46853584, y: 0.03109487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d300a6760bf654cbf4e21db560c799
+      internalID: 1041722987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1598
+        width: 56
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7498418, y: 0.022894168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e851fc6a05752c3499830bd39bc117c9
+      internalID: 1445773170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1602
+        width: 57
+        height: 51
+      alignment: 9
+      pivot: {x: 0.73478675, y: 0.07060451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931bd2bda38c3e4fbb5e2b344e4438b
+      internalID: -170376040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1602
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6520776, y: 0.059946913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f447135fd4e65b4b901bbe3d65f6a3e
+      internalID: 1002973621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1529
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.55983394, y: 0.026871292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143fdf084abd8d948a12399e309658d3
+      internalID: 1629839834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1529
+        width: 53
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6147755, y: 0.02204241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2103c1ee8b944ea3257db04a0e00d
+      internalID: 1466971520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__76
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1529
+        width: 67
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6634269, y: 0.008674035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f57ea3529bf3904482df9ee20bff066
+      internalID: -956985266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1529
+        width: 70
+        height: 55
+      alignment: 9
+      pivot: {x: 0.66511273, y: 0.024411842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7e452661de2e40b50ee47a881b13e
+      internalID: 888797788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1529
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.66996944, y: 0.035473634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c8cd716f4d2b43b317e6c1b820426
+      internalID: 930985880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__79
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1529
+        width: 66
+        height: 56
+      alignment: 9
+      pivot: {x: 0.67512006, y: 0.011180333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3fef09a6a69f844b6d36017bd52eee
+      internalID: 1567438273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__80
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1529
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.69680697, y: 0.024411842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442bad6efb5fecb44ba475b0980c9346
+      internalID: 149215286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1466
+        width: 69
+        height: 45
+      alignment: 9
+      pivot: {x: 0.43828738, y: 0.040388998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8921fa9ec34dea45988401169c334c0
+      internalID: -654044379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1466
+        width: 70
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45654917, y: 0.040388998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773171f53d3de34aa31004e6f391bb5
+      internalID: 547875509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1401
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5225301, y: 0.013352273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8765eccfb2bf27429e645232966cfdb
+      internalID: 980570435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__84
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1401
+        width: 51
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5715663, y: 0.038523708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e0880b33f93f41b414ba96ece2344
+      internalID: -475551280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1329
+        width: 56
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53258806, y: 0.082533896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f871a704742944eb1a2593e9b9a362
+      internalID: -1707948175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1263
+        width: 72
+        height: 48
+      alignment: 9
+      pivot: {x: 0.62673146, y: 0.03109487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39310f686c9004478bc9fb1868b0ab5
+      internalID: -597839175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1269
+        width: 75
+        height: 40
+      alignment: 9
+      pivot: {x: 0.88120806, y: 0.01335144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5629a903874acb949a915b1510a090de
+      internalID: -1370410691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1264
+        width: 69
+        height: 47
+      alignment: 9
+      pivot: {x: 0.8350116, y: 0.047004864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497b84cbdd5d5e4695739990e7e303e
+      internalID: 1293335637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1266
+        width: 70
+        height: 43
+      alignment: 9
+      pivot: {x: 0.7259443, y: 0.033157703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33318eb88c10e478968ed8f17be452
+      internalID: -1223578375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__90
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1269
+        width: 73
+        height: 45
+      alignment: 9
+      pivot: {x: 0.85832024, y: 0.05390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ca197499e7124186e2e3ed69a74cb
+      internalID: 1114677644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1263
+        width: 74
+        height: 48
+      alignment: 9
+      pivot: {x: 0.8534781, y: 0.018422445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235901770331884f9700c09a7451115
+      internalID: -554968181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1142
+        width: 67
+        height: 56
+      alignment: 9
+      pivot: {x: 0.40012816, y: 0.02204241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d1a40234a81841a261cc28e3cedff
+      internalID: 26539113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1142
+        width: 74
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4342371, y: 0.020371657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a25d66df717ef4fb6cdf20afac3fe9
+      internalID: 1031642949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1142
+        width: 68
+        height: 46
+      alignment: 9
+      pivot: {x: 0.39265174, y: 0.023931088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b10563013feab14ab67b2a3e3806d46
+      internalID: -1564996264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__95
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1142
+        width: 69
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3942075, y: 0.043767292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8128f6d250014b96e3b548b918f22
+      internalID: -97878712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__96
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1142
+        width: 72
+        height: 49
+      alignment: 9
+      pivot: {x: 0.38171726, y: 0.015836755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ad16bc14c74a84e8c575b8043764d1
+      internalID: -1771940071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1005
+        width: 73
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4083368, y: 0.03109487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b050af1889fcd4dbbae86717954c97
+      internalID: 277061175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__98
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1005
+        width: 65
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5467933, y: 0.039158676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f30adff3a7e242aedec0868a33a09
+      internalID: 824686613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1005
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.623725, y: 0.037684735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d01a3c62a5cec24fa31b0d48f6aa7d7
+      internalID: -1266460673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__101
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1005
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.57486945, y: 0.037684735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd6944d6bea861498c9b4f7b21386db
+      internalID: 1135413488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__103
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1005
+        width: 79
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6463028, y: 0.018421173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec85e054bc8c54cbbea1c49b78e83d
+      internalID: -1782962531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 863
+        width: 88
+        height: 84
+      alignment: 9
+      pivot: {x: 0.79033, y: 0.065492906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f935a4fc692554f4cb5a273a657f7d9b
+      internalID: -547462257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 861
+        width: 96
+        height: 78
+      alignment: 9
+      pivot: {x: 0.8104925, y: 0.08666288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee67fe34bdfb514eb1aabf07f1fa42c
+      internalID: 677584858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__106
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 864
+        width: 96
+        height: 83
+      alignment: 9
+      pivot: {x: 0.7407897, y: 0.06025788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bc32be18c49f439f732c99f526401
+      internalID: -1855285995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 860
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00010152382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa107af1aad9524fa050639af5b6f19
+      internalID: 1741776831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__108
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 853
+        width: 114
+        height: 127
+      alignment: 9
+      pivot: {x: 0.13181238, y: 0.04017507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8def22b54d2af4e979884c7826acd2
+      internalID: -852693192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__109
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 721
+        width: 35
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.037685547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b083db81a7dcb1147a0f1bf294b8ff21
+      internalID: 1123711895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__110
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 722
+        width: 35
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5173811, y: 0.043767292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b694295732e824092ce7ef369f7d3d
+      internalID: 1128355820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__111
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 722
+        width: 35
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5173811, y: 0.11980692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46aee0fcd50cf4c8cc158322088332
+      internalID: 1866402170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__112
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 725
+        width: 67
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5000009, y: 0.094458684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8311ac8ecc8a624bb4c8a59546bbe99
+      internalID: -966887042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__113
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 725
+        width: 68
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5089461, y: 0.16205174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e97ef1b99045f46bb16eda2e82a8ef
+      internalID: -1667266308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 587
+        width: 66
+        height: 18
+      alignment: 9
+      pivot: {x: 0.509217, y: 0.094462074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc15bc42fa38841a9a06bfbade5e15
+      internalID: 875249599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__115
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 588
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5640323, y: 0.10638787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f064cded271c45b2214ae59dd3154
+      internalID: 1896842096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__116
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 588
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53041536, y: 0.0706069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b7d12fa9294941bcb6a7a5c6f7351
+      internalID: -1247842116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__117
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 588
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10638787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc37a0c904647b46975935b994a3134
+      internalID: 693939186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__118
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 588
+        width: 20
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53041685, y: 0.081790924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28575f5e04294f347ac260837ec0894f
+      internalID: 1617467990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.119802475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0587df19f60ce248a56b10859210468
+      internalID: 333926477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__120
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 450
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5640323, y: 0.119802475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf227e1262d27f41b632227108bfe34
+      internalID: -717868599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 436
+        width: 58
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6153696, y: 0.019238872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eee4970a3bb484bb8821dc45801777
+      internalID: 262170609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__122
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 436
+        width: 56
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6520778, y: 0.019238872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39367ad49cf82b547835a100a96ed74f
+      internalID: 793199927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__123
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 436
+        width: 58
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6468348, y: 0.009426978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e956a8d29035d634c96fc52a1782c209
+      internalID: 453691298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__124
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 65
+        height: 60
+      alignment: 9
+      pivot: {x: 0.55615175, y: 0.023491414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20f75199f4c4946b56ded559560316
+      internalID: 1695277243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__125
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 315
+        width: 66
+        height: 58
+      alignment: 9
+      pivot: {x: 0.55530155, y: 0.028034605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f7e9dfb2e9f1d4db1fe279ee9e869e
+      internalID: 358005999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__126
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 315
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5675906, y: 0.017546555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a2e977216ab8479ef3558358a8709
+      internalID: -2019862616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__127
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 315
+        width: 61
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5498617, y: 0.015413963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b316f2290ffe54aa6fca443622fa4f
+      internalID: 980537151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__128
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 143
+        width: 158
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.010707026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94af29ab7091044a9a48b0105dd18b
+      internalID: -1521864694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__129
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 143
+        width: 168
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5072417, y: 0.010707026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19d36ac338537341a7413828f122bf2
+      internalID: -924059352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__130
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 144
+        width: 168
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.014196078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4c0943574aff48999ef775a3a4a2a
+      internalID: -1157365448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__131
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 136
+        width: 159
+        height: 138
+      alignment: 9
+      pivot: {x: 0.503826, y: 0.015114936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751571a1c2afbb846a8305f47ab1bd5d
+      internalID: 787247166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__132
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6235631, y: 0.024410872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1cb779920b3504db5d043291493a16
+      internalID: 1029621163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__133
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 71
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.63736045, y: 0.035470996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93dda287dc33147bdacda54f7dbb92
+      internalID: -903170625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__134
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 71
+        width: 64
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6140585, y: 0.01117897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef5a68db8f7a0b46a4f95257a460f69
+      internalID: -1522499505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__137
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 71
+        width: 65
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6216623, y: 0.024410872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5d36046183b54fa49da91ba2b949f
+      internalID: -934386009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__139
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 71
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6177378, y: 0.024410872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4dc2a148abcfa43a55f45e8b53ffb9
+      internalID: 50702255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__140
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 71
+        width: 65
+        height: 54
+      alignment: 9
+      pivot: {x: 0.649738, y: 0.026870586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67980c08c790414dbef45dd42121ffb
+      internalID: -695289247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__141
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 71
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6158689, y: 0.015605503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613658c193e3ef140a80e12abd865608
+      internalID: 1235754564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__142
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 61
+        height: 53
+      alignment: 9
+      pivot: {x: 0.57977855, y: 0.029419458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7418e41d0a9b224c82d67891386f0d5
+      internalID: 1479593113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__143
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 53
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5688655, y: 0.022040784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb71c5edb08846c44b568e598a291a14
+      internalID: 1890009912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__144
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 67
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6452682, y: 0.05237456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf23e1e17531f74b854d0ba6ffc5257
+      internalID: -932749307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__145
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 5
+        width: 70
+        height: 55
+      alignment: 9
+      pivot: {x: 0.66511273, y: 0.04653308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93d8a7eadc0ef641899755b13ab5994
+      internalID: -1705674305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__146
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.66996944, y: 0.04653308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4aa01cc54a304bbdb0d047012a20f
+      internalID: 1121432775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__147
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5
+        width: 66
+        height: 56
+      alignment: 9
+      pivot: {x: 0.67512006, y: 0.05462885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8395d15886673814eb00b5457ce39b28
+      internalID: 2079376177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__148
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 5
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.66996944, y: 0.04653308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb2e3e7505387f43bbf1cae44c9cf9b
+      internalID: 389916702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__140: -695289247
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__110: 1128355820
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__117: 693939186
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__66: 1817564176
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__3: 233459058
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__147: 2079376177
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__16: -192590409
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__54: -59045629
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__70: 1041722987
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__51: 698995226
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__82: 547875509
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__40: -712393145
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__138: -1955546543
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__74: 1629839834
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__96: -1771940071
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__56: -1270496118
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__104: -547462257
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__15: -1601289408
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__64: -1426166392
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__103: -1782962531
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__137: -934386009
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__50: 564140331
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__62: 1973512058
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__0: 971146991
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__108: -852693192
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__73: 1002973621
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__129: -924059352
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__59: 820970651
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__61: 550523612
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__106: -1855285995
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__35: -1049852831
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__21: 1466828248
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__22: -1925310777
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__81: -654044379
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__121: 262170609
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__31: -575703152
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__94: -1564996264
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__14: 885635201
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__92: 26539113
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__19: 1338780943
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__37: -705606881
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__69: 1333781050
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__75: 1466971520
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__1: 1328288045
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__97: 277061175
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__111: 1866402170
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__41: -719535022
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__36: 1863090369
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__124: 1695277243
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__132: 1029621163
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__38: -755314462
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__122: 793199927
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__17: 1046621653
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__87: -1370410691
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__68: 519270858
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__100: -1092956017
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__130: -1157365448
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__131: 787247166
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__23: 1774849333
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__107: 1741776831
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__20: -2003718237
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__25: 320938007
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__2: 1487858953
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__29: 1483956351
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__43: -911745835
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__78: 930985880
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__57: -211699468
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__45: -1100396182
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__88: 1293335637
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__7: 1422329181
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__98: 824686613
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__33: -99377000
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__143: 1890009912
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__42: 1456467059
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__39: -1847160909
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__13: -768921008
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__47: -1143276019
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__99: -1266460673
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__48: -59100961
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__53: 1407463895
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__128: -1521864694
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__6: 1720695976
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__30: 994736744
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__12: 1484105805
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__134: -1522499505
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__125: 358005999
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__58: 759041920
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__76: -956985266
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__90: 1114677644
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__126: -2019862616
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__114: 875249599
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__11: -1822682979
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__27: -1709129754
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__79: 1567438273
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__101: 1135413488
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__9: -464194509
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__123: 453691298
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__116: -1247842116
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__10: -1161932514
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__32: 241401518
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__95: -97878712
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__141: 1235754564
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__148: 389916702
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__102: -1072523886
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__135: 533544954
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__52: 1361685940
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__8: -690770762
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__91: -554968181
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__49: -128404050
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__55: 1035519344
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__26: -82467444
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__85: -1707948175
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__80: 149215286
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__18: -2107867330
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__127: 980537151
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__146: 1121432775
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__113: -1667266308
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__133: -903170625
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__46: 1901938236
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__86: -597839175
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__136: -252077078
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__84: -475551280
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__67: -736194584
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__60: 425751146
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__72: -170376040
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__112: -966887042
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__144: -932749307
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__83: 980570435
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__120: -717868599
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__139: 50702255
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__145: -1705674305
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__24: -322062413
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__34: 693250485
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__63: -130861288
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__89: -1223578375
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__77: 888797788
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__115: 1896842096
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__93: 1031642949
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__118: 1617467990
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__28: -598745394
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__5: -1526070847
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__119: 333926477
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__44: -1945395430
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__105: 677584858
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__65: -1587802592
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__109: 1123711895
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__4: 1597710205
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__71: 1445773170
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Naruto 3 Tailed__142: 1479593113
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

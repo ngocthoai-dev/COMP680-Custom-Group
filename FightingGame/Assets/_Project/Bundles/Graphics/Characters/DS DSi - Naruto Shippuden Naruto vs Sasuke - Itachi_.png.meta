@@ -1,0 +1,3119 @@
+fileFormatVersion: 2
+guid: bdc039742259c3f4ab45cd3be6578d47
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2557
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48136267, y: 0.009450955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245fb9fda8c74d4fa7aed86ac7bf915
+      internalID: -1965967063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2557
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.31971487, y: 0.0029986838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1cf3d6356966499ea78f94c227236
+      internalID: 1012203522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2557
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3764243, y: 0.007926779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ff5fba10ec2e498e917000dbe6acd
+      internalID: 599423875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2557
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4951815, y: 0.011113706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93494a09c06cd754286c8c3d8dce6033
+      internalID: 1771371571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2482
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.31989327, y: 0.025214616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f517478500d9648a7a12a1cbb3db5a
+      internalID: -1903383340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2482
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.295885, y: 0.025214616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728154cfe3bacae4f8232fd7243f7b94
+      internalID: -748778636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2482
+        width: 39
+        height: 43
+      alignment: 9
+      pivot: {x: 0.31475046, y: 0.02673056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a8df309bbd228459fa7b39b20c7502
+      internalID: -103376181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2482
+        width: 34
+        height: 46
+      alignment: 9
+      pivot: {x: 0.27982643, y: 0.011787746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8da35d1d2e15248b6904cc99b31f5b
+      internalID: 1721165422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2409
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48933637, y: 0.0053710938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38480ddb826ad740b62668c59829588
+      internalID: -1625547772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2409
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44765103, y: 0.0075041116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b862f4ddedc09294eafb0c8fec6807ff
+      internalID: -506364199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2409
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.35604027, y: 0.0075041116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590a3d628076784cb369508839fe457
+      internalID: -162022694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2409
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.49297762, y: 0.0019795187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92687ee65dd686944bb5f0da53b678dc
+      internalID: 1494931793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2409
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.48892683, y: 0.0026855469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aaac137fc707448ba8a0420964a8b2
+      internalID: 523557233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 23
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48806384, y: 0.008911133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a89c6f212c70443a8a127f5403bf44
+      internalID: -2109982026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2328
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42246062, y: 0.009691815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e7b8efa91235f4998f348d0d1a1021
+      internalID: 942875061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2328
+        width: 38
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3140062, y: 0.010697115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb22d239aed754a90c555fcd3c2458
+      internalID: 428900586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2328
+        width: 25
+        height: 59
+      alignment: 9
+      pivot: {x: 0.48586488, y: 0.014842923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950245b112d6ea44d9db0a853510533a
+      internalID: 1605637478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2328
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.41754353, y: 0.016017748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a03afb908780349961859f0b7a28f6
+      internalID: 729527740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2328
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.0006528108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d255995a2a996545ab5e4ec26fc9415
+      internalID: -538771191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2274
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.60159546, y: 0.019958496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed0956ee7b115347b606a1645dd1272
+      internalID: 269021811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2274
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3268256, y: 0.012335205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a6121a24b020448541766426780e3
+      internalID: -1708229509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2274
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41177207, y: 0.013788132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ba1ccc7e9faf4099a9ce293a14b01
+      internalID: -2029928766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2273
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.464832, y: 0.015108976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9bb936ba2a22649b6b043d43e26e09
+      internalID: 1594778068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2273
+        width: 18
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5260518, y: 0.010199653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e68712574e7944bbe7c3a71ceb5bd
+      internalID: 1977059776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2228
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51966345, y: 0.018753855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79498101847b8f34a922f9c296cb8a19
+      internalID: 378897552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2227
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.31415448, y: 0.015462239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc23112f137f54792c7c6d501a3a4b
+      internalID: -352543469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2227
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.30604467, y: 0.019958496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f64594feb2fe44b85e72a410a4e928
+      internalID: -504289880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2176
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30278492, y: 0.012339565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc89287b19f509428ba67416ce38d0a
+      internalID: -907758143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2176
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.38986588, y: 0.015618024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21bee4998767743a862a51dd0ddfac
+      internalID: 1350055042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2175
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43860322, y: 0.021051897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2ef6ebaedc324d94869c28825ed4c
+      internalID: 756334323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2175
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.33864236, y: 0.008951823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e149b10cace9e4b8d47f2ab09fb6ac
+      internalID: -288453976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2175
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2335561, y: 0.042826336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfebe33f2542809498cc521a3b53f6d0
+      internalID: -2098688144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2176
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.39269334, y: -0.004215016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0416ea85cffdf4ea0ee54f14638897
+      internalID: -259732009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2134
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6919027, y: 0.031930108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea3f97e41eaf8d47a89efc44adfe50b
+      internalID: 34790467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2078
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.22171642, y: 0.012337239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbb566afdda9f4cb2589919425522b
+      internalID: -2083424090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2078
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.27141, y: 0.005566406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f59a783e392394eb8a4e890eadd98a
+      internalID: -39214869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2025
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.40139243, y: 0.013985299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158d9a2b11da2340afb5a9b62e93d5d
+      internalID: -720281167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2025
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.41035664, y: 0.022223394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440571c3a0de2bb4e8f697c8c9606fc4
+      internalID: -1300010668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1952
+        width: 18
+        height: 45
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.019113498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa23458357047943a9f603c40164115
+      internalID: -2135691199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1952
+        width: 24
+        height: 37
+      alignment: 9
+      pivot: {x: 0.72858936, y: 0.030461492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02565ec909cbac24b93427a93b32ff97
+      internalID: -18476836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1952
+        width: 18
+        height: 47
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.007152801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e812462edaf3f0847a86dbdd2b6f0bf1
+      internalID: 1735292970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1952
+        width: 18
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5169322, y: 0.013635513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642ce3b02ddd65d41be289d67f04bdd3
+      internalID: -1592208626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1953
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25876f6630b384cb478f1e61a426c7
+      internalID: -744500815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1883
+        width: 18
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5169322, y: 0.016314963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab4e70de1788d5408f61933ebaf8e5c
+      internalID: -1224874565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1883
+        width: 18
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5338652, y: 0.009688668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b554a885159bf8f46b498e7ddcbf7bd0
+      internalID: 1152759181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1883
+        width: 19
+        height: 46
+      alignment: 9
+      pivot: {x: 0.516041, y: 0.016314963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea224fd3bbc0efc45ab0be40e7daf5b3
+      internalID: 66309314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1883
+        width: 20
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4999996, y: -0.0035612688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f63ba748d14d4f9240fa683f2ce62
+      internalID: 978044250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1818
+        width: 21
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48548627, y: 0.016798066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e641b7727589184fa35b093c9fbfe76
+      internalID: -282033913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__48
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1818
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.49047518, y: 0.028302874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90d91dfd4113f41aa4788f71bf038a
+      internalID: -181838384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1772
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.71630013, y: 0.0036307198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7c73f611ce4364d8b26de297603ff2
+      internalID: 1147880885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1738
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.49322692, y: 0.012337239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e0350885dc3f48bf3b3286f6733b9
+      internalID: 154809351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1734
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5067729, y: 0.032657877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ee4ff8e385e04281e39fef2d6d1e6
+      internalID: 1497812802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1737
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4932268, y: 0.012337239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78ccd013386c34f809507a90aebfc6
+      internalID: -466179466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1741
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5067729, y: 0.012337239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030f7ea5e0d00d4eb77e992e674a476
+      internalID: -1798669059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1734
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.51354575, y: 0.012337239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ebadd19c727fe4a88fa79ebf55f9f3
+      internalID: 941304734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1738
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.032657877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff01a122b6ac24408c473257d678923
+      internalID: 1495792773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1734
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5203186, y: 0.032657877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11b2c1c28785045bda398b57a00983
+      internalID: -421186790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1687
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.42147666, y: 0.015085321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48138604e0a6f48879f17c9dae2e06
+      internalID: -1120825160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1687
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.42802024, y: 0.007507324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03e4a77a3ed154fa3f96f30c3646ab
+      internalID: -1524130580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1635
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.57464576, y: 0.026990619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207cddaaabdc5a44b902e0babfb37cf4
+      internalID: -1197547772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1569
+        width: 20
+        height: 44
+      alignment: 9
+      pivot: {x: 0.543188, y: 0.01577204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3fedd17cb8764f8b1a6ebf7cd1202
+      internalID: -1087500573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1569
+        width: 38
+        height: 46
+      alignment: 9
+      pivot: {x: 0.34088656, y: 0.01804783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3bcc02257401646b4b6aa9a593ebd4
+      internalID: -1427152190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1569
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.58397675, y: 0.013736979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5010860c405ae468c3ea8cff0dfeae
+      internalID: 1071757774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1509
+        width: 56
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45886868, y: 0.014490464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9575c849be054e95173875b503964
+      internalID: 1168824053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1436
+        width: 24
+        height: 65
+      alignment: 9
+      pivot: {x: 0.46401, y: 0.012751653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef5e5bc15744a4fa0e7f905fcfdf56
+      internalID: -2122008176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1436
+        width: 23
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6001461, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd4f93250a1462498595b8bb869cc59
+      internalID: 944034964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1436
+        width: 30
+        height: 65
+      alignment: 9
+      pivot: {x: 0.375235, y: 0.012751653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6880daa7124040b57af2ad1e50382
+      internalID: -998402897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1435
+        width: 31
+        height: 65
+      alignment: 9
+      pivot: {x: 0.34210894, y: 0.012751653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809b8026a806494588cdffd775710c4
+      internalID: -847992673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1434
+        width: 27
+        height: 65
+      alignment: 9
+      pivot: {x: 0.34004495, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a6f3d4149ff149b99a7abf8d11f16
+      internalID: 50710823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1434
+        width: 25
+        height: 65
+      alignment: 9
+      pivot: {x: 0.26966432, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd60ce4b47f66684c9894bdbc2308312
+      internalID: 1450879483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1434
+        width: 23
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3247455, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e162507cf6ea440b5ba7b25aa140f6
+      internalID: -196974225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1434
+        width: 26
+        height: 65
+      alignment: 9
+      pivot: {x: 0.32281846, y: 0.012751653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439a6bbb47305564199cb57f31f5ad51
+      internalID: 348371358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__72
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1434
+        width: 28
+        height: 65
+      alignment: 9
+      pivot: {x: 0.32519203, y: 0.012751653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078e727f50abc74b93a33d568a9349d
+      internalID: -290246582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1434
+        width: 26
+        height: 65
+      alignment: 9
+      pivot: {x: 0.28959772, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d95f3d8688f1640b54861dd076f75d
+      internalID: -1098028213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1434
+        width: 26
+        height: 65
+      alignment: 9
+      pivot: {x: 0.25637582, y: -0.0005371094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2411083b5bac03b4298f82e07a176660
+      internalID: -1688359078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__75
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1434
+        width: 25
+        height: 65
+      alignment: 9
+      pivot: {x: 0.29269776, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df689f883a84c434bbd4254c5cfe5b64
+      internalID: -148083152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1434
+        width: 23
+        height: 65
+      alignment: 9
+      pivot: {x: 0.29970914, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e5ffcbd4f55d41848686a8ecd96bf
+      internalID: -1979449124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__77
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1434
+        width: 26
+        height: 65
+      alignment: 9
+      pivot: {x: 0.27852455, y: 0.003893104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cabbca9ee3da240a2019fa0dabb9fe
+      internalID: 285362854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__78
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1434
+        width: 28
+        height: 65
+      alignment: 9
+      pivot: {x: 0.30462646, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb617279781114459af8509ce52a31c
+      internalID: -1939426803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__79
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1434
+        width: 26
+        height: 65
+      alignment: 9
+      pivot: {x: 0.26744902, y: 0.008323317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f060e910f52742a1e06ee9da000bb
+      internalID: 294392478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1371
+        width: 44
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3560403, y: 0.009471752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddedbb324854b34dbf8a6e96fb3921d
+      internalID: -1290855456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1371
+        width: 42
+        height: 56
+      alignment: 9
+      pivot: {x: 0.32176408, y: 0.0012839182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b040b872511fb4786c0cc074ff5c96
+      internalID: -332161250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1319
+        width: 51
+        height: 38
+      alignment: 9
+      pivot: {x: 0.9968026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f28831f3211944b78de826e9b0984
+      internalID: -726639084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1319
+        width: 38
+        height: 43
+      alignment: 9
+      pivot: {x: 1.000071, y: 0.51339364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb6aa969d372d04a8c0543421afd4b4
+      internalID: 144163024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1253
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.45570463, y: 0.01577204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b136d3a2ed7543bd23b55cc8b5b6b
+      internalID: -236025182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1203
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.31369922, y: 0.006424386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ecfaa6e17561643b90378b861cf9b8
+      internalID: 36273879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1203
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.044127252, y: 0.006424386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7900696fe80a9424aa3c05bd70374b4d
+      internalID: 1519254856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1202
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7159397, y: 0.006424386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2369bbe434a3046a31646dd0eabd7e
+      internalID: 450224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1202
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.33063552, y: -0.0038587782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b21e7818a2574ba192d4a328513da
+      internalID: -414673473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1202
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.04412757, y: 0.028133817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082bf0f7bae0057438b406ae388d1e4c
+      internalID: 1594127295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__90
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1203
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7087418, y: 0.00037698186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0060bcb44b907b49b8dfbe71064a551
+      internalID: 1760188618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1150
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5719798, y: 0.010537719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4d521abddc7844a11aedd83ee575f
+      internalID: -932296623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__92
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1150
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.31023493, y: 0.010540771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95063124f73f85c4a8ca5ffdf84b82b6
+      internalID: -1501476905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1150
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3939245, y: 0.00642613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb986327305bf0640b1aeb180e639b6f
+      internalID: -1555614176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__94
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1149
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.54429567, y: 0.015774814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9968e3c6542f0a141bb14f06c8ce39b4
+      internalID: 710182129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__95
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1149
+        width: 18
+        height: 45
+      alignment: 9
+      pivot: {x: 0.2600674, y: 0.013736979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a28c3f17084e9d48a52eb9a7d6bb3ea
+      internalID: 169400260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1086
+        width: 20
+        height: 44
+      alignment: 9
+      pivot: {x: 0.39922816, y: 0.01577204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4311e19c21e475e4ca081cb85319b1f6
+      internalID: 139992671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__97
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1086
+        width: 38
+        height: 46
+      alignment: 9
+      pivot: {x: 0.19692671, y: 0.024307914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86d09e91ed6524383f4f4a91e74164
+      internalID: 1069592435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1086
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.35604033, y: 0.013736979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d64f5b25aa1f54abcaacf38f97416a
+      internalID: -1088844330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__99
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 988
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.40402713, y: 0.013736979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bbed7dd50208e409d094e76774f7b1
+      internalID: -1321210214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 988
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.31815618, y: 0.011207758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4052e27f8c394881c2dd881aefd43
+      internalID: 1853677785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__101
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 988
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.39922792, y: 0.011207758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba083e72f67e97449831a5464ba03a9d
+      internalID: -1058270463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__102
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 988
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.31222668, y: 0.017903173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9fea73984cdb458aa012d1930962b
+      internalID: -40113295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 988
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.18808746, y: 0.011207758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a018c6a336e32d499f703cc7fac801d
+      internalID: -1846196818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__104
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 834
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.1606662, y: 0.01328096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3999f7e6601fd34f99a2db268b67ee7
+      internalID: -1538188971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 834
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.16066633, y: 0.013279506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577a107be245844fa3727ac81628ff6
+      internalID: -606826442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__106
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 834
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.096912496, y: 0.015083714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f26b1554242dd34f881d7a557397afd
+      internalID: -231833847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__107
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 834
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.11336496, y: 0.015083714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640cabb5825192044bd25aeb15737902
+      internalID: 709858883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__108
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 834
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.19075295, y: 0.017904593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044520bfe8ef391418d0b52af950fe53
+      internalID: 1718399380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__109
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 680
+        width: 18
+        height: 46
+      alignment: 9
+      pivot: {x: 0.34004465, y: 0.011789073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93431d726af5ca4692a7de6cfc91baa
+      internalID: 585869266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 680
+        width: 18
+        height: 46
+      alignment: 9
+      pivot: {x: 0.35604012, y: 0.005530316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88f3a104b935d6479107096bbb29ffc
+      internalID: -516685678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__111
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 677
+        width: 8
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab4a6328cd6fa48b125c196b40e5d3
+      internalID: -2145206755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__112
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 675
+        width: 19
+        height: 11
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e292b383e146347b418fe1b3b15a31
+      internalID: -2034257852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__113
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 670
+        width: 33
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5854ee7b31427d4586ec8e86a170d17
+      internalID: -1041166513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 509
+        width: 57
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00000013384903, y: 0.35718104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f2c9444d3ed7499feda1f089bc46f
+      internalID: -1637359519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__115
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 506
+        width: 72
+        height: 49
+      alignment: 9
+      pivot: {x: -0.00000021192763, y: 0.4191172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e15fe5464b7e442acfd1da84163175
+      internalID: 1210971656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__116
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 506
+        width: 80
+        height: 50
+      alignment: 9
+      pivot: {x: 0.033026885, y: 0.39431152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c55cc860b80f4ba23d726bd751926
+      internalID: -739475754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__117
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 528
+        width: 79
+        height: 52
+      alignment: 9
+      pivot: {x: 0, y: 0.4237835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa6bca21955ed4bbaa875998f03427
+      internalID: -1831325035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__118
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 529
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.06139735, y: 0.3986952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45e2e0be160bb49a1939a3a56ca066
+      internalID: -285694333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__119
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 374
+        width: 78
+        height: 53
+      alignment: 9
+      pivot: {x: 0.037829082, y: 0.39778224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cdd941119d7a64ebed17aa2a5bf2d2
+      internalID: 1070841923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 375
+        width: 76
+        height: 51
+      alignment: 9
+      pivot: {x: 0.04491284, y: 0.387444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f05ad1a9379b46a8984165fa3ab0f
+      internalID: -1902262364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__122
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 374
+        width: 77
+        height: 50
+      alignment: 9
+      pivot: {x: 0.066872336, y: 0.40210938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb8e9859ea7d8499635344bffdbbef
+      internalID: 1815417036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__123
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 374
+        width: 78
+        height: 49
+      alignment: 9
+      pivot: {x: 0.048968975, y: 0.40433425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3699fc4ce4b40dd448383fccd0c5051b
+      internalID: 1017792240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__124
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 375
+        width: 72
+        height: 41
+      alignment: 9
+      pivot: {x: 0.095565796, y: 0.45688537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b39f625b1ab1d40988515e30f5b7c6
+      internalID: 868304818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__125
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 172
+        width: 163
+        height: 127
+      alignment: 9
+      pivot: {x: 0.10018603, y: 0.4738558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a75171b5c20cd7438bfebaeca88da5c
+      internalID: 1671311943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00459671, y: 0.44030762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b1d385781f664cba3528ce02ee40e
+      internalID: 880270108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__128
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 226
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.0060298755, y: 0.49059746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e55cb12e58cc1428ca3defd3ef577b
+      internalID: 253493703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__136
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 223
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.025022764, y: 0.52100927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7752cd65185f4f9350bbe410f7699
+      internalID: -540135941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 135
+        height: 123
+      alignment: 9
+      pivot: {x: 0.041996595, y: 0.4581408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059118b0ca24ad744b4c3ac6f4373549
+      internalID: -230850665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__143
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 136
+        height: 123
+      alignment: 9
+      pivot: {x: 0.0161714, y: 0.44069168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca2ffea62239d645a0e9ab59542f819
+      internalID: -1170109227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__150
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 34
+        width: 139
+        height: 104
+      alignment: 9
+      pivot: {x: 0.034969192, y: 0.42909476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ce29581d86ba45816e40d341bfb1c
+      internalID: 90528031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__175
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 26
+        width: 142
+        height: 110
+      alignment: 9
+      pivot: {x: 0.025030646, y: 0.45520464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200de3ce9fb7dbd448dc068e2d7771fa
+      internalID: -2057135115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__139: 535228073
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__25: -352543469
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__169: -919711769
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__171: -289191607
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__138: 1252287734
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__126: -758937822
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__140: -51461576
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__93: -1555614176
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__0: -1965967063
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__84: -236025182
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__149: -1321775874
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__167: 655846854
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__136: -540135941
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__11: 1494931793
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__184: -210680944
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__187: 13159429
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__55: 1495792773
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__46: 978044250
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__68: 50710823
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__175: -2057135115
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__98: -1088844330
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__50: 154809351
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__172: -1598521288
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__115: 1210971656
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__137: 1940583692
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__66: -998402897
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__33: 34790467
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__89: 1594127295
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__92: -1501476905
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__74: -1688359078
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__143: -1170109227
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__103: -1846196818
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__118: -285694333
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__161: -1182696973
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__24: 378897552
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__83: 144163024
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__65: 944034964
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__35: -39214869
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__40: 1735292970
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__129: 288555688
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__106: -231833847
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__131: 253589043
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__56: -421186790
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__23: 1977059776
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__71: 348371358
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__80: -1290855456
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__153: -1195698724
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__76: -1979449124
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__13: -2109982026
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__185: -455333252
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__174: -989168571
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__119: 1070841923
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__6: -103376181
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__163: 1341948857
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__87: 450224569
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__107: 709858883
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__1: 1012203522
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__58: -1524130580
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__102: -40113295
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__156: 1519429016
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__73: -1098028213
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__147: -645140586
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__100: 1853677785
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__60: -1087500573
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__64: -2122008176
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__10: -162022694
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__37: -1300010668
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__79: 294392478
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__88: -414673473
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__150: 90528031
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__82: -726639084
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__110: -516685678
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__51: 1497812802
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__109: 585869266
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__52: -466179466
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__20: -1708229509
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__5: -748778636
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__30: -288453976
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__62: 1071757774
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__125: 1671311943
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__54: 941304734
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__21: -2029928766
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__63: 1168824053
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__27: -907758143
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__128: 253493703
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__113: -1041166513
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__85: 36273879
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__105: -606826442
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__130: -2048585604
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__152: 1337862234
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__99: -1321210214
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__15: 428900586
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__127: 880270108
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__26: -504289880
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__41: -1592208626
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__142: -1544816591
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__49: 1147880885
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__38: -2135691199
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__166: 1393055831
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__111: -2145206755
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__39: -18476836
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__108: 1718399380
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__61: -1427152190
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__173: -398815766
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__179: 937242983
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__28: 1350055042
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__19: 269021811
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__95: 169400260
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__7: 1721165422
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__47: -282033913
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__145: -1910093936
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__70: -196974225
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__132: -1683517463
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__3: 1771371571
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__141: -230850665
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__159: -152462535
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__16: 1605637478
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__116: -739475754
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__8: -1625547772
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__151: -1442854650
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__120: -427555266
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__32: -259732009
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__17: 729527740
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__123: 1017792240
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__67: -847992673
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__165: 836366645
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__77: 285362854
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__183: 2008207530
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__170: 704888675
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__160: 1476078390
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__180: -42966313
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__94: 710182129
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__18: -538771191
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__2: 599423875
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__148: -24118713
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__158: 863129740
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__44: 1152759181
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__178: 199707331
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__59: -1197547772
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__181: 2019813356
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__97: 1069592435
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__57: -1120825160
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__144: 1171923351
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__101: -1058270463
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__86: 1519254856
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__75: -148083152
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__124: 868304818
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__22: 1594778068
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__96: 139992671
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__91: -932296623
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__12: 523557233
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__42: -744500815
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__45: 66309314
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__186: -1160661309
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__29: 756334323
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__81: -332161250
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__182: 570189258
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__36: -720281167
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__104: -1538188971
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__154: 916634813
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__112: -2034257852
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__31: -2098688144
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__114: -1637359519
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__34: -2083424090
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__4: -1903383340
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__90: 1760188618
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__14: 942875061
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__168: 1174219013
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__122: 1815417036
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__177: -289097645
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__157: -92551878
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__121: -1902262364
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__146: -2018327742
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__72: -290246582
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__134: -720576827
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__135: 637694730
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__155: 1320273674
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__9: -506364199
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__78: -1939426803
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__43: -1224874565
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__133: 1336760568
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__164: -658039579
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__117: -1831325035
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__162: 833113106
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__69: 1450879483
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__176: -238279449
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__48: -181838384
+      DS DSi - Naruto Shippuden Naruto vs Sasuke - Itachi__53: -1798669059
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

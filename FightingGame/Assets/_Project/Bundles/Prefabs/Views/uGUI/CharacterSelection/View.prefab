@@ -1201,6 +1201,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _availableChars:
   - {fileID: 11400000, guid: 816b76ea13aa31a45a4a511a64457873, type: 2}
+  - {fileID: 11400000, guid: 743ea086328da4dac8e76262a61ef26f, type: 2}
+  - {fileID: 11400000, guid: fe1ddf9b2aa5d42b3b455411ea7d822c, type: 2}
+  - {fileID: 11400000, guid: 320d3f75e377e40c6be5553ba3a719b3, type: 2}
   _copyAvailableChars: []
   _availableStats: 
   _backBtn: {fileID: 0}
