@@ -340,7 +340,7 @@ Animator:
   m_GameObject: {fileID: 2788916763301520729}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: ebe37f1a2803a462c9b1c7eade06a389, type: 2}
+  m_Controller: {fileID: 22100000, guid: 21bfae6a4a3bc1f46a51293b3ed584cb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -478,6 +478,7 @@ GameObject:
   - component: {fileID: 6080373176032953945}
   - component: {fileID: 3316898768641150294}
   - component: {fileID: 2515062990283273024}
+  - component: {fileID: 6676846213487871593}
   m_Layer: 6
   m_Name: 4Tails
   m_TagString: Untagged
@@ -657,6 +658,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &6676846213487871593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2788916764280250751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6607a5db87fa4001bb382a5766b9c62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2788916764623312852
 GameObject:
   m_ObjectHideFlags: 0

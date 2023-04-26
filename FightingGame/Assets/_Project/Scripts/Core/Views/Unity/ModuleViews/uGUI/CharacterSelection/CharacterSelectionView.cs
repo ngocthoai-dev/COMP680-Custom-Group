@@ -102,7 +102,7 @@ namespace Core.View
         private void OnSelectChar(int playerIdx, int charIdx)
         {
             _charViews[playerIdx].ApplyData(_copyAvailableChars[charIdx]);
-            if (!IsPlayer(playerIdx)) return;
+            //if (!IsPlayer(playerIdx)) return;
 
             var charConfig = _copyAvailableChars[charIdx];
             for (int idx = 0; idx < _statsView.Length; idx++)
@@ -111,6 +111,7 @@ namespace Core.View
             _selectableCharViews[_selectedCharIdxes[playerIdx]].OnSelect(playerIdx, false);
             _selectableCharViews[charIdx].OnSelect(playerIdx, true);
             _selectedCharIdxes[playerIdx] = charIdx;
+            Debug.Log($"OnSelectChar: {playerIdx} - {charIdx}");
         }
 
         private void InitState()
@@ -120,7 +121,6 @@ namespace Core.View
             _charViews[1].ReadyBtn.interactable = false;
 
             OnSelectChar(0, 0);
-            OnSelectChar(1, 0);
         }
 
         private void RegisterEvents()
@@ -143,12 +143,12 @@ namespace Core.View
         private IEnumerator AISelectChar()
         {
             int loopTime = UnityEngine.Random.Range(5, 15);
+            _isReadys[1] = true;
             while (loopTime > 0)
             {
                 loopTime--;
                 OnSelectChar(1, UnityEngine.Random.Range(0, _copyAvailableChars.Length));
                 yield return new WaitForSeconds(Time.deltaTime);
-                _isReadys[1] = true;
             }
         }
 
@@ -239,7 +239,7 @@ namespace Core.View
                 NameTxt.text = type.ToString();
                 FillImg.fillAmount = (float)config.StatLevels[type] / config.LevelStatsConfigSO.LevelConfigs[type].Count;
                 var ruler = FillImg.transform.Find("Ruler");
-                ruler.GetComponent<HorizontalLayoutGroup>().spacing = 400 / config.LevelStatsConfigSO.LevelConfigs[type].Count -10;
+                ruler.GetComponent<HorizontalLayoutGroup>().spacing = 400 / config.LevelStatsConfigSO.LevelConfigs[type].Count - 10;
                 ruler.GetComponentsInChildren<Image>()
                     .Where((ele, idx) => (idx + 1) >= config.LevelStatsConfigSO.LevelConfigs[type].Count)
                     .ForEach(ele => ele.SetActive(false));

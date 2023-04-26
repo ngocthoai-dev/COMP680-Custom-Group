@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4866e17b5928183468c2cb115e890cc7, type: 3}
-  m_Name: CharacterConfig
+  m_Name: CharacterConfig_3Tails
   m_EditorClassIdentifier: Framework:Core.SO:CharacterConfigSO
   Index: 1
   CharacterName: 3 Tails

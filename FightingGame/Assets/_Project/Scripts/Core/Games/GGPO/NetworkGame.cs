@@ -3,6 +3,7 @@ using Core.SO;
 using Network.UnityGGPO;
 using System;
 using System.IO;
+using System.Linq;
 using Unity.Collections;
 using UnityEngine;
 
@@ -20,6 +21,8 @@ namespace Core.GGPO
 
         public NetworkCharacter[] Characters { get; private set; }
         public MapConfig MapConfig { get; private set; }
+
+        public NetworkCharacter AICharacter => Characters.Last();
 
         public NetworkGame(MapConfig mapConfig, CharacterConfigSO[] characterConfigSOs)
         {
@@ -40,6 +43,7 @@ namespace Core.GGPO
                 if (Framenumber == 0)
                 {
                     Start = true;
+                    Run = true;
                 }
                 Framenumber++;
                 if (Framenumber <= 0) return;
@@ -60,21 +64,33 @@ namespace Core.GGPO
                     if ((disconnect_flags & (1 << idx)) != 0)
                     {
                         //Handle AI
+                        Debug.Log("Handle AI");
+                        //NetworkInput.ParseInputs(inputs[idx],
+                        //                      out up,
+                        //                      out down,
+                        //                      out left,
+                        //                      out right,
+                        //                      out light,
+                        //                      out heavy,
+                        //                      out skill1,
+                        //                      out skill2,
+                        //                      out dashForward,
+                        //                      out dashBackward);
                     }
                     else
                     {
-                        NetworkInput.ParseInputs(inputs[idx],
-                                              out up,
-                                              out down,
-                                              out left,
-                                              out right,
-                                              out light,
-                                              out heavy,
-                                              out skill1,
-                                              out skill2,
-                                              out dashForward,
-                                              out dashBackward);
                     }
+                    NetworkInput.ParseInputs(inputs[idx],
+                                          out up,
+                                          out down,
+                                          out left,
+                                          out right,
+                                          out light,
+                                          out heavy,
+                                          out skill1,
+                                          out skill2,
+                                          out dashForward,
+                                          out dashBackward);
                     Characters[idx].CharacterController.Logic(idx, up, down, left, right, light, heavy, skill1, skill2, dashForward, dashBackward);
                 }
 

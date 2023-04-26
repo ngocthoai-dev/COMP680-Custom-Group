@@ -24,10 +24,20 @@ namespace Core.GGPO
         public static bool ONE_DASH_FORWARD { get; set; }
         public static bool ONE_DASH_BACKWARD { get; set; }
 
-        public static long GetInput(int id)
+        public static bool TWO_UP { get; set; }
+        public static bool TWO_DOWN { get; set; }
+        public static bool TWO_LEFT { get; set; }
+        public static bool TWO_RIGHT { get; set; }
+        public static bool TWO_LIGHT { get; set; }
+        public static bool TWO_HEAVY { get; set; }
+        public static bool TWO_SKILL1 { get; set; }
+        public static bool TWO_SKILL2 { get; set; }
+        public static bool TWO_DASH_FORWARD { get; set; }
+        public static bool TWO_DASH_BACKWARD { get; set; }
+
+        private static long ReadPlayer1Input()
         {
             long input = 0;
-            if (id != 0) return input;
             if (ONE_UP)
             {
                 input |= UP_BYTE;
@@ -76,6 +86,65 @@ namespace Core.GGPO
                 ONE_DASH_BACKWARD = false;
             }
             return input;
+        }
+
+        private static long ReadPlayer2Input()
+        {
+            long input = 0;
+            if (TWO_UP)
+            {
+                input |= UP_BYTE;
+                TWO_UP = false;
+            }
+            if (TWO_DOWN)
+            {
+                input |= DOWN_BYTE;
+            }
+            if (TWO_LEFT)
+            {
+                input |= LEFT_BYTE;
+            }
+            if (TWO_RIGHT)
+            {
+                input |= RIGHT_BYTE;
+            }
+            if (TWO_LIGHT)
+            {
+                input |= LIGHT_BYTE;
+                TWO_LIGHT = false;
+            }
+            if (TWO_HEAVY)
+            {
+                input |= HEAVY_BYTE;
+                TWO_HEAVY = false;
+            }
+            if (TWO_SKILL1)
+            {
+                input |= SKILL1_BYTE;
+                TWO_SKILL1 = false;
+            }
+            if (TWO_SKILL2)
+            {
+                input |= SKILL2_BYTE;
+                TWO_SKILL2 = false;
+            }
+            if (TWO_DASH_FORWARD)
+            {
+                input |= DASH_FORWARD_BYTE;
+                TWO_DASH_FORWARD = false;
+            }
+            if (TWO_DASH_BACKWARD)
+            {
+                input |= DASH_BACKWARD_BYTE;
+                TWO_DASH_BACKWARD = false;
+            }
+            return input;
+        }
+
+        public static long GetInput(int id)
+        {
+            return id == 0 ? ReadPlayer1Input() :
+                        ReadPlayer2Input();
         }
 
         public static void ParseInputs(long inputs,

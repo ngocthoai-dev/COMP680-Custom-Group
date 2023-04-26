@@ -585,6 +585,7 @@ GameObject:
   - component: {fileID: 6080373176032953945}
   - component: {fileID: 3316898768641150294}
   - component: {fileID: 2515062990283273024}
+  - component: {fileID: 8206541374350556282}
   m_Layer: 6
   m_Name: Neji
   m_TagString: Untagged
@@ -764,6 +765,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8206541374350556282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2788916764280250751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6607a5db87fa4001bb382a5766b9c62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2788916764623312852
 GameObject:
   m_ObjectHideFlags: 0

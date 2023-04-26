@@ -13,41 +13,49 @@ namespace Core.Gameplay
 
 		protected virtual void DoneGotHit()
 		{
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
 			_controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void DoneLightAtk1()
 		{
-			_controller.CharacterState = ECharacterState.IDLE;
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
+            _controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void DoneLightAtk2()
 		{
-			_controller.CharacterState = ECharacterState.IDLE;
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
+            _controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void DoneLightAtk3()
 		{
-			_controller.CharacterState = ECharacterState.IDLE;
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
+            _controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void DoneHeavyAtk()
 		{
-			_controller.CharacterState = ECharacterState.IDLE;
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
+            _controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void DoneSkill1()
 		{
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
 			_controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void DoneSkill2()
 		{
-			_controller.CharacterState = ECharacterState.IDLE;
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
+            _controller.CharacterState = ECharacterState.IDLE;
 		}
 
 		protected virtual void SetupAttackCollision(Transform tr, AttackTypeIndex atkIdx)
 		{
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
 			tr.GetComponent<AttackContainer>().
 					Setup(_controller.CharacterConfigSO.
 							AttackSOs[(int)atkIdx]);
@@ -72,6 +80,7 @@ namespace Core.Gameplay
 
 		private void SetupAttackBound(AttackTypeIndex atkIdx, AnimationEvent evt)
 		{
+			if (_controller.CharacterState == ECharacterState.DEAD) return;
 			if (evt.intParameter != 0)
 				SetupAttackCollision(_attackBounds[atkIdx], atkIdx);
 			else _attackBounds[atkIdx].SetActive(evt.intParameter != 0);
