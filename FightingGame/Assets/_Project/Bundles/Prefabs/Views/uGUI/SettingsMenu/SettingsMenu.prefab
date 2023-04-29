@@ -2463,7 +2463,7 @@ GameObject:
   - component: {fileID: 8785927816725834368}
   - component: {fileID: 6213904784822995539}
   - component: {fileID: 3572735432289756650}
-  - component: {fileID: 8778978827680679104}
+  - component: {fileID: 442484645055640739}
   m_Layer: 5
   m_Name: Dropdown
   m_TagString: Untagged
@@ -2591,8 +2591,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8778978827680679104}
-        m_TargetAssemblyTypeName: DropDown_Menu, Framework
+      - m_Target: {fileID: 442484645055640739}
+        m_TargetAssemblyTypeName: DropDown, Framework
         m_MethodName: DropDownTest
         m_Mode: 0
         m_Arguments:
@@ -2604,7 +2604,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   m_AlphaFadeSpeed: 0.15
---- !u!114 &8778978827680679104
+--- !u!114 &442484645055640739
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2613,6 +2613,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 9052715087865660194}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7250dbfef73924884b736c68fc9199b9, type: 3}
+  m_Script: {fileID: 11500000, guid: 67b1b35d2bac244a6a64d888a7dffefe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
