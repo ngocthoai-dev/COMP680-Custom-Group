@@ -16,7 +16,7 @@ namespace Core.Business
         CharacterToggleMenu,
         SettingsMenu,
         ModeMenu,
-        CharacterSelection
+        CharacterSelection,
         AboutMenu,
         ControlsMenu
     }
