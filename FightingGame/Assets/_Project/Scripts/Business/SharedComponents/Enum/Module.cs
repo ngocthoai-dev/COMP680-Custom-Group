@@ -17,6 +17,8 @@ namespace Core.Business
         SettingsMenu,
         ModeMenu,
         CharacterSelection
+        AboutMenu,
+        ControlsMenu
     }
 
     public enum ViewName

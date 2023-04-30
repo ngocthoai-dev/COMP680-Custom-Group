@@ -19,7 +19,7 @@
 
         public IModuleContextModel Clone()
         {
-            return new MainMenuModel(ViewId);
+            return new OptionsMenuModel(ViewId);
         }
 
         public void Refresh()

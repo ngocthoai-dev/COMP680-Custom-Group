@@ -14,7 +14,8 @@ namespace Core.View
 
         [SerializeField] private Button _backBtn;
         [SerializeField] private Button _settingsBtn;
-        [SerializeField] private Button _rulesBtn;
+        [SerializeField] private Button _aboutBtn;
+        [SerializeField] private Button _controlsBtn;
 
         [Inject]
         public void Init(
@@ -41,9 +42,16 @@ namespace Core.View
                 _gameStore.GState.RemoveModel<OptionsMenuModel>();
             });
 
-            _rulesBtn.onClick.AddListener(() =>
+            _controlsBtn.onClick.AddListener(async () =>
             {
-                //_gameStore.GState.RemoveModel<OptionsMenuModel>();
+               await _gameStore.CreateModule<IControlsMenu, ControlsMenuModel>("", ViewName.Unity, ModuleName.ControlsMenu);
+                _gameStore.GState.RemoveModel<OptionsMenuModel>();
+            });
+
+            _aboutBtn.onClick.AddListener(async () =>
+            {
+                await _gameStore.CreateModule<IAboutMenu, AboutMenuModel>("", ViewName.Unity, ModuleName.AboutMenu);
+                _gameStore.GState.RemoveModel<OptionsMenuModel>();
             });
         }
 

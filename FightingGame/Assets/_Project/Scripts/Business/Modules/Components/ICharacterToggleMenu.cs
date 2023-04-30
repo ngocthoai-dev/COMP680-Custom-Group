@@ -19,7 +19,7 @@
 
         public IModuleContextModel Clone()
         {
-            return new MainMenuModel(ViewId);
+            return new CharacterToggleMenuModel(ViewId);
         }
 
         public void Refresh()
