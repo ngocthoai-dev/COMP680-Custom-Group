@@ -111,7 +111,6 @@ namespace Core.View
             _selectableCharViews[_selectedCharIdxes[playerIdx]].OnSelect(playerIdx, false);
             _selectableCharViews[charIdx].OnSelect(playerIdx, true);
             _selectedCharIdxes[playerIdx] = charIdx;
-            Debug.Log($"OnSelectChar: {playerIdx} - {charIdx}");
         }
 
         private void InitState()
@@ -125,7 +124,7 @@ namespace Core.View
 
         private void RegisterEvents()
         {
-            _charViews[0].ReadyBtn.onClick.AddListener(() =>
+            _charViews[0].ReadyBtn.onClick.AddListener(async () =>
             {
                 if (_isReadys[1])
                 {
@@ -136,6 +135,8 @@ namespace Core.View
                         _copyAvailableChars[_selectedCharIdxes[1]]
                     })
                     .StartLocalGame();
+                    await _gameStore.CreateModule<IBattleHUD, BattleHUDModel>(
+                        "", ViewName.Unity, ModuleName.BattleHUD);
                 }
             });
         }

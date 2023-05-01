@@ -105,6 +105,16 @@ namespace Core
                 .WithId(ModuleName.ControlsMenu).To<IControlsMenu>()
                 .FromSubContainerResolve()
                 .ByInstaller<ControlsMenu.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.BattleHUD).To<IBattleHUD>()
+                .FromSubContainerResolve()
+                .ByInstaller<BattleHUD.Installer>();
+
+            Container.BindFactory<IBaseModule, BaseModule.Factory>()
+                .WithId(ModuleName.BattleResult).To<IBattleResult>()
+                .FromSubContainerResolve()
+                .ByInstaller<BattleResult.Installer>();
         }
 
         private void InstallServices()
@@ -143,6 +153,8 @@ namespace Core
 
             Container.DeclareSignal<GameAudioSignal>().OptionalSubscriber();
             Container.DeclareSignal<PlayOneShotAudioSignal>().OptionalSubscriber();
+            Container.DeclareSignal<OnSyncBattleHUD>().OptionalSubscriber();
+            Container.DeclareSignal<OnEndBattle>().OptionalSubscriber();
 
             Container.DeclareSignal<OnApplicationQuitSignal>().OptionalSubscriber();
         }

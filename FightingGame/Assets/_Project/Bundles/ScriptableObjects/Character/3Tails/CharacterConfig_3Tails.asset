@@ -19,8 +19,8 @@ MonoBehaviour:
   Thumbnail: {fileID: -2019862616, guid: 4d6b73343753c154c8bd34e8494d6f59, type: 3}
   Color: {r: 1, g: 1, b: 1, a: 1}
   Light1: {fileID: 11400000, guid: 6a1ab1d7b7ea10042b10b9a0f96b52c4, type: 2}
-  Light2: {fileID: 0}
-  Light3: {fileID: 0}
+  Light2: {fileID: 11400000, guid: 5ab0588c5ecdb4fffac19581b3181f14, type: 2}
+  Light3: {fileID: 11400000, guid: 626c1534cc4444fa6a77af87420ec80e, type: 2}
   Heavy: {fileID: 11400000, guid: abb5099baba3bba4482588fd324e757d, type: 2}
   Skill1: {fileID: 11400000, guid: 6d07a75af531a9840ae359413bd5e647, type: 2}
   Skill2: {fileID: 11400000, guid: 7ec59777591b4354d811c28430df3086, type: 2}

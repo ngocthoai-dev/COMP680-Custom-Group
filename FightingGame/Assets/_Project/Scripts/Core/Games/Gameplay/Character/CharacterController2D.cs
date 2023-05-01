@@ -1,4 +1,5 @@
 using Core.Business;
+using Core.EventSignal;
 using Core.Extension;
 using Core.GGPO;
 using Core.SO;
@@ -383,6 +384,8 @@ namespace Core.Gameplay
             enabled = false;
             GetComponentInChildren<CollisionBlocker>().SetActive(false);
             // Signal on end
+            _signalBus.Fire(new OnEndBattle(PlayerIndex != 0));
+            GameManager.Instance.Shutdown();
         }
 
         private void Knock()

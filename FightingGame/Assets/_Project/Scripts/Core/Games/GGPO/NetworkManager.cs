@@ -17,6 +17,7 @@ namespace Core.GGPO
     {
         [SerializeField] private bool isDebugBattle = false;
         private IBundleLoader _bundleLoader;
+        private SignalBus _signalBus;
 
         [SerializeField] private Transform _mapContainer;
         [SerializeField][DebugOnly] private CharacterConfigSO[] _charConfigs;
@@ -27,9 +28,11 @@ namespace Core.GGPO
 
         [Inject]
         public void Construct(
+            SignalBus signalBus,
             [Inject(Id = BundleLoaderName.Addressable)]
             IBundleLoader bundleLoader)
         {
+            _signalBus = signalBus;
             _bundleLoader = bundleLoader;
             LoadAssets();
         }
@@ -69,12 +72,12 @@ namespace Core.GGPO
 
         public override void StartLocalGame()
         {
-            StartGame(new LocalRunner(new NetworkGame(MapConfig, _charConfigs)));
+            StartGame(new LocalRunner(new NetworkGame(_signalBus, MapConfig, _charConfigs)));
         }
 
         public override void StartGGPOGame(IPerfUpdate perfPanel, IList<Connections> connections, int playerIndex)
         {
-            var game = new GGPORunner(GetType().Name.ToString(), new NetworkGame(MapConfig, _charConfigs), perfPanel);
+            var game = new GGPORunner(GetType().Name.ToString(), new NetworkGame(_signalBus, MapConfig, _charConfigs), perfPanel);
             game.Init(connections, playerIndex);
             StartGame(game);
         }

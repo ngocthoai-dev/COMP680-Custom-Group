@@ -1,4 +1,7 @@
 ﻿using Core.Business;
+using Core.Gameplay;
+using Core.GGPO;
+using Core.SO;
 
 namespace Core.EventSignal
 {
@@ -23,5 +26,25 @@ namespace Core.EventSignal
 
     public enum GameAction
     {
+    }
+
+    public class OnSyncBattleHUD
+    {
+        public NetworkCharacter[] NetworkCharacters { get; private set; }
+
+        public OnSyncBattleHUD(NetworkCharacter[] networkCharacters)
+        {
+            NetworkCharacters = networkCharacters;
+        }
+    }
+
+    public class OnEndBattle
+    {
+        public bool IsWin { get; private set; }
+
+        public OnEndBattle(bool isWin)
+        {
+            IsWin = isWin;
+        }
     }
 }

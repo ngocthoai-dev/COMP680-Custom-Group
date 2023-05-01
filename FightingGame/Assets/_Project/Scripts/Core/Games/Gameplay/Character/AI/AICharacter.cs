@@ -87,7 +87,7 @@ namespace Core.Gameplay
 
             if (_previousStats?.GetStats(StatType.HP).Value > GetStatsValue(StatType.HP))
             {
-                int parryRandom = Random.Range(0, 3);
+                int parryRandom = Random.Range(0, 20);
                 if (parryRandom <= 1)
                 {
                     NetworkInput.TWO_DOWN = true;
@@ -97,7 +97,7 @@ namespace Core.Gameplay
 
         void FixedUpdate()
         {
-            if (NetworkGame.Run && enabled)
+            if (GameManager.Instance.IsRunning && enabled)
             {
                 Movement();
                 Parry();
