@@ -10,6 +10,8 @@ using System.Linq;
 using UnityEngine;
 using UnityGGPO;
 using Zenject;
+using Core.EventSignal;
+using UnityEngine.TextCore.Text;
 
 namespace Core.GGPO
 {
@@ -25,6 +27,8 @@ namespace Core.GGPO
         [SerializeField][DebugOnly] MapConfig _mapConfig;
         public MapConfig MapConfig => _mapConfig;
         public CharacterConfigSO[] CharConfigs => _charConfigs;
+
+        private NetworkGame _networkGame;
 
         [Inject]
         public void Construct(
@@ -72,14 +76,34 @@ namespace Core.GGPO
 
         public override void StartLocalGame()
         {
-            StartGame(new LocalRunner(new NetworkGame(_signalBus, MapConfig, _charConfigs)));
+            _networkGame = new NetworkGame(_signalBus, MapConfig, _charConfigs);
+            StartGame(new LocalRunner(_networkGame));
         }
 
         public override void StartGGPOGame(IPerfUpdate perfPanel, IList<Connections> connections, int playerIndex)
         {
-            var game = new GGPORunner(GetType().Name.ToString(), new NetworkGame(_signalBus, MapConfig, _charConfigs), perfPanel);
+            _networkGame = new NetworkGame(_signalBus, MapConfig, _charConfigs);
+            var game = new GGPORunner(GetType().Name.ToString(), _networkGame, perfPanel);
             game.Init(connections, playerIndex);
             StartGame(game);
+        }
+
+        private void OnEndBattle(OnEndBattle signal)
+        {
+            if (_networkGame == null) return;
+            for (int idx = 0; idx < _networkGame.Characters.Count(); idx++)
+                Destroy(_networkGame.Characters[idx].CharacterController.gameObject);
+            MapConfig.gameObject.SetActive(false);
+        }
+
+        public void OnDisable()
+        {
+            _signalBus.Unsubscribe<OnEndBattle>(OnEndBattle);
+        }
+
+        public void OnEnable()
+        {
+            _signalBus.Subscribe<OnEndBattle>(OnEndBattle);
         }
     }
 }

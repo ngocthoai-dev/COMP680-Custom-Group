@@ -26,11 +26,13 @@ namespace Core.Gameplay
 
         private float _skillTimer;
         private float _attackTimer;
+        private float _parryTimer;
 
         private ItemStats? _previousStats = null;
 
         private void Movement()
         {
+            if (_otherPlayer == null) return;
             _distance = _otherPlayer.transform.position.x - transform.position.x;
             _movementTimer -= Time.deltaTime;
             if (_movementTimer < 0)
@@ -65,12 +67,15 @@ namespace Core.Gameplay
 
         private void Specials()
         {
+            _skillTimer -= Time.deltaTime;
             if (_skillTimer < 0)
             {
                 int skillRandom = Random.Range(0, 4);
                 if (skillRandom <= 1)
                 {
                     NetworkInput.TWO_SKILL1 = true;
+                    _attackTimer = Random.Range(0.15f, 0.35f);
+                    _skillTimer = Random.Range(0.4f, 0.85f);
                 }
                 else if (skillRandom <= 2)
                 {
@@ -85,12 +90,17 @@ namespace Core.Gameplay
         {
             if (_previousStats == null) return;
 
-            if (_previousStats?.GetStats(StatType.HP).Value > GetStatsValue(StatType.HP))
+            _parryTimer -= Time.deltaTime;
+            if (_parryTimer < 0)
             {
-                int parryRandom = Random.Range(0, 20);
-                if (parryRandom <= 1)
+                if (_previousStats?.GetStats(StatType.HP).Value > GetStatsValue(StatType.HP))
                 {
-                    NetworkInput.TWO_DOWN = true;
+                    int parryRandom = Random.Range(0, 20);
+                    if (parryRandom <= 1)
+                    {
+                        NetworkInput.TWO_DOWN = true;
+                        _parryTimer = Random.Range(0.4f, 0.85f);
+                    }
                 }
             }
         }

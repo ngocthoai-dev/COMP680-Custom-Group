@@ -60,6 +60,7 @@ namespace Core.Editor
 
             if (GUILayout.Button("Collect Attack SO"))
             {
+                Debug.Log($"Collect Attack SO: {_rootPath}");
                 TryGetUnityObjectsOfTypeFromPath($"{_rootPath}/Attack", out AttackSO[] sos);
                 _so.Light1 = TryPickSO(sos, nameof(_so.Light1));
                 _so.Light2 = TryPickSO(sos, nameof(_so.Light2));

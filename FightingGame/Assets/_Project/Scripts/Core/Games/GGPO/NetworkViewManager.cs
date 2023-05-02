@@ -1,10 +1,12 @@
 ﻿using Core.Business;
+using Core.EventSignal;
 using Core.Gameplay;
 using Core.SO;
 using Core.Utility;
 using Network.UnityGGPO;
 using System;
 using UnityEngine;
+using UnityEngine.TextCore.Text;
 using Zenject;
 
 namespace Core.GGPO
@@ -12,15 +14,31 @@ namespace Core.GGPO
     public class NetworkViewManager : MonoBehaviour, IGameView
     {
         private DiContainer _diContainer;
+        private SignalBus _signalBus;
 
         private NetworkObjectView[] _charViews = Array.Empty<NetworkObjectView>();
         private NetworkManager gameManager => (NetworkManager)GameManager.Instance;
 
         [Inject]
         public void Construct(
-            DiContainer diContainer)
+            DiContainer diContainer,
+            SignalBus signalBus)
         {
             _diContainer = diContainer;
+            _signalBus = signalBus;
+
+            _signalBus.Subscribe<OnEndBattle>(OnEndBattle);
+        }
+
+        private void OnDestroy()
+        {
+            _signalBus.Unsubscribe<OnEndBattle>(OnEndBattle);
+        }
+
+        private void OnEndBattle(OnEndBattle signal)
+        {
+            gameManager.MapConfig.OccupiedPositions = new();
+            _charViews = Array.Empty<NetworkObjectView>();
         }
 
         private void ResetView(NetworkGame networkGame)

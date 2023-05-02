@@ -2,6 +2,7 @@
 using Core.EventSignal;
 using Core.Gameplay;
 using Core.SO;
+using Cysharp.Threading.Tasks;
 using Network.UnityGGPO;
 using System;
 using System.IO;
@@ -13,7 +14,7 @@ using Zenject;
 namespace Core.GGPO
 {
     [Serializable]
-    public class NetworkGame : IGame, IDisposable
+    public class NetworkGame : IGame
     {
         public int Framenumber { get; private set; }
         public static int Timer { get; set; }
@@ -40,7 +41,6 @@ namespace Core.GGPO
             {
                 Characters[i] = new NetworkCharacter();
             }
-            _signalBus.Subscribe<OnEndBattle>(OnEndBattle);
         }
 
         public void Update(long[] inputs, int disconnect_flags)
@@ -209,18 +209,6 @@ namespace Core.GGPO
                 hashCode = hashCode * -1521134295 + @char.GetHashCode();
             }
             return hashCode;
-        }
-
-        private void OnEndBattle(OnEndBattle signal)
-        {
-            for (int idx = 0; idx < Characters.Count(); idx++)
-                GameManager.Destroy(Characters[idx].CharacterController.gameObject);
-            MapConfig.gameObject.SetActive(false);
-        }
-
-        public void Dispose()
-        {
-            _signalBus.Unsubscribe<OnEndBattle>(OnEndBattle);
         }
     }
 }
